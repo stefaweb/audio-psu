@@ -1,4 +1,4 @@
-# audio-psu
+# audio-psu : PCB-PSU-6.3V
 
 Coming soon.
 
