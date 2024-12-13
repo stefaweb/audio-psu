@@ -1,6 +1,6 @@
 # audio-psu
 
-Soon.
+Coming soon.
 
 ![PCB-PSU-6 3V-3D](https://github.com/user-attachments/assets/297324e6-7568-4d8d-bd0f-78f4af84e53b)
 
