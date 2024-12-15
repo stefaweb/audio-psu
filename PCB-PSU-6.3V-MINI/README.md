@@ -10,4 +10,5 @@ Coming soon.
 
 ![PCB-PSU-6 3V-MINI-FRONT](https://github.com/user-attachments/assets/22e6acd2-1405-4bb4-8407-9b910bb66534)
 
-![PCB-PSU-6 3V-MINI-diagram](https://github.com/user-attachments/assets/2d4784cf-51e6-4365-a8bb-798882b7991b)
+![PCB-PSU-6 3V-MINI-diagram](https://github.com/user-attachments/assets/2d1ba774-2d65-49ed-9398-0ebfdf6bb10a)
+
