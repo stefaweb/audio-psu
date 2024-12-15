@@ -2,12 +2,12 @@
 
 Coming soon.
 
-[url=https://ibb.co/mBxX1cp][img]https://i.ibb.co/BP1rdCk/PCB-PSU-6-3-V-MINI-3-D-VIEW.jpg[/img][/url]
+![PCB-PSU-6 3V-MINI-3D-VIEW](https://github.com/user-attachments/assets/a3e65b38-a6ef-41c7-bc43-1262acd6b857)
 
-[url=https://ibb.co/PgnYSzZ][img]https://i.ibb.co/Xtg4wkZ/PCB-PSU-6-3-V-MINI-3-D.jpg[/img][/url]
+![PCB-PSU-6 3V-MINI-3D](https://github.com/user-attachments/assets/c1dfe086-200b-481e-b168-6f9167a20732)
 
-[url=https://ibb.co/H75hJs6][img]https://i.ibb.co/G7zHhLy/PCB-PSU-6-3-V-MINI-FRONT.jpg[/img][/url]
+![PCB-PSU-6 3V-MINI-BACK](https://github.com/user-attachments/assets/e8122a89-86f5-465f-a233-d15d09ed20ee)
 
-[url=https://ibb.co/P90fTjF][img]https://i.ibb.co/CMDTJ8m/PCB-PSU-6-3-V-MINI-BACK.jpg[/img][/url]
+![PCB-PSU-6 3V-MINI-FRONT](https://github.com/user-attachments/assets/22e6acd2-1405-4bb4-8407-9b910bb66534)
 
-[url=https://ibb.co/p355mr6][img]https://i.ibb.co/nDttW8q/PCB-PSU-6-3-V-MINI-diagram.jpg[/img][/url]
+![PCB-PSU-6 3V-MINI-diagram](https://github.com/user-attachments/assets/2d4784cf-51e6-4365-a8bb-798882b7991b)
