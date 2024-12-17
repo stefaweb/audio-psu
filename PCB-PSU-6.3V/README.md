@@ -2,12 +2,10 @@
 
 Coming soon.
 
-![PCB-PSU-6 3V-3D-VIEW](https://github.com/user-attachments/assets/b7ecfcbc-7ee9-48ff-b259-3803f2d744d3)
+![PCB-PSU-6 3V-3D](https://github.com/user-attachments/assets/5c7a7708-3f6d-4722-9722-975e029460cd)
 
-![PCB-PSU-6 3V-3D](https://github.com/user-attachments/assets/e0c0fe73-b11c-47a9-aacd-afa1fa9790fd)
+![PCB-PSU-6 3V-diagram](https://github.com/user-attachments/assets/2c73690a-abcb-4709-8a1b-b1ea270630fe)
 
-![PCB-PSU-6 3V-PCB-FRONT](https://github.com/user-attachments/assets/cceeafe4-2da5-4865-99e0-4ceeafab28ec)
+![PCB-PSU-6 3V-PCB-FRONT](https://github.com/user-attachments/assets/66874b8a-a8cc-4bf7-bd10-dd3762e3ef32)
 
-![PCB-PSU-6 3V-PCB-BACK](https://github.com/user-attachments/assets/b57f78c9-3286-4a77-b42e-4347238a6bd9)
-
-![PCB-PSU-6 3V-diagram](https://github.com/user-attachments/assets/07defd74-45ef-439d-b4f3-4eea9ffafdba)
+![PCB-PSU-6 3V-PCB-BACK](https://github.com/user-attachments/assets/37900d39-e10d-490d-84d4-06319c3a4f45)
