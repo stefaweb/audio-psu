@@ -1,0 +1,51 @@
+***********************************************************
+* Model for XL4016 developed EasyEDA by signality.co.uk 
+* based on datasheet:
+*    http://www.xlsemi.com/datasheet/XL4016%20datasheet.pdf 
+* and softstart performance information kindly provided by 
+* Bin Liu of XLSEMI.com
+**
+* Note that the following parameters of the Error Amplifier 
+* are best guess as they are not specified in the datasheet: 
+*    Transconductance:    G=1mS 
+*    Output current:      Iout=50uA 
+*    Output resistance:   Rout=10MOhm
+*    Output high voltage: Vhigh=1V
+*    Output low voltage:  Vlow=0V
+* The oscillator output swing is unspecified therefore in 
+* the model it is defined to be 1V peak to peak and the 
+* Error Amplifier output swing is set to the same range to 
+* accommodate the 0% to 100% duty cycle quoted in the 
+* datasheet. 
+* In the real device, this output swing may be different.
+**
+***********************************************************
+.subckt xl4016 GRND FB SW VC VIN
+A1 ILIMREF N002 0 0 0 0 ILIM 0 SCHMITT Vt=0 Vh=1u
+A2 OSPREF N002 0 0 0 0 OSP 0 SCHMITT Vt=0 Vh=1u
+B1 VIN OSPREF V=LIMIT(V(VIN,GRND)/1k, 0, 220u)*V(VINOK)
+B2 VIN ILIMREF V=LIMIT(V(VIN,GRND)/1k, 0, 200u)*V(VINOK)
+A4 0 ILIM 0 OSP 0 0 CLR 0 OR
+S1 SW N003 GDRV 0 SW
+R1 VIN N003 22u
+A3 N005 0 CLK PRE CLR 0 GDRV 0 DFLOP Td=1u
+A5 SAW ERR 0 0 0 0 CLK 0 SCHMITT Vt=0 Vh=100u
+A6 FB REF 0 0 0 0 ERR 0 OTA G=1m Iout=50u Rout=10Meg Vhigh=1 Vlow=0
+R2 N005 0 1
+C1 SAW 0 1n
+A7 SAW N004 N004 N004 N004 SAW N004 N004 SCHMITT Vt=0.6 Vh=0.5 td=1n Rlow=10 Rhigh=2G
+Vimon1 N004 0 -100m
+B3 0 PRE I=U(I(Vimon1)-1m) Rpar=1 Cpar=1n
+R3 ERR N006 20k
+C2 N006 0 3.3n
+B5 VIN SAW I=(LIMIT(V(VIN,GRND), 0, 3.3)/3.3*(48u+132u*V(SCPn)))*V(VINOK)
+C5 N002 VIN 10p
+R6 N003 N002 1k
+B4 GRND VC I=MIN(V(VIN,GRND), 3.3)/100 Rpar=100
+I1 VIN GRND 2.1m load
+A9 VIN GRND GRND GRND GRND GRND REF GRND SCHMITT Vt=8 Vh=0.1 Vhigh=1.25
+A10 VIN GRND 0 0 0 VINOKn VINOK 0 SCHMITT Vt=8 Vh=0.1 ; Trise=100u
+A8 N001 0 ILIM OSP 0 SCPn 0 0 DFLOP
+R7 N001 0 1
+.model sw sw(Ron=40m Roff=100Meg Vt=0.5 Vh=0)
+.ends xl4016
