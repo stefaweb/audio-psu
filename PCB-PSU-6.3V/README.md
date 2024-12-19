@@ -1,4 +1,4 @@
-# audio-psu : PCB-PSU-6.3V
+# PCB-PSU-6.3V
 
 Coming soon.
 
@@ -8,4 +8,4 @@ Coming soon.
 
 ![PCB-PSU-6 3V-PCB-BACK](https://github.com/user-attachments/assets/f86c1412-d453-4903-be47-5ac2eaa04bf0)
 
-![PCB-PSU-6 3V-diagram](https://github.com/user-attachments/assets/4f478035-2334-42ba-945b-de39e703f09e)
+![PCB-PSU-6 3V-diagram](https://github.com/user-attachments/assets/da981905-475a-4f36-aca8-359bfab56341)
