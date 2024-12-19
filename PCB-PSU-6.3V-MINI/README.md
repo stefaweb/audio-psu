@@ -8,4 +8,4 @@ Coming soon.
 
 ![PCB-PSU-6 3V-MINI-BACK](https://github.com/user-attachments/assets/29f0f229-8385-4acc-9eac-5748c56349b2)
 
-![PCB-PSU-6 3V-MINI-diagram](https://github.com/user-attachments/assets/068750f9-8174-4730-ad0d-b12d6c5f3a20)
+![PCB-PSU-6 3V-MINI-diagram](https://github.com/user-attachments/assets/84d70ea9-ab33-413b-89d8-a289126de15f)
