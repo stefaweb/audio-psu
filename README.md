@@ -29,5 +29,5 @@ Coming soon.
 
 Coming soon.
 
-![PCB-PSU-6 3V-MINI-3D](https://github.com/user-attachments/assets/c178a0c6-06fc-4951-aced-854b71298309)
+![PCB-PSU-6 3V-MINI-3D](https://github.com/user-attachments/assets/4ba1f311-683b-4f61-97ab-57eb93d1b0ac)
 
