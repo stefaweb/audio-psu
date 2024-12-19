@@ -30,5 +30,5 @@ Coming soon.
 
 Coming soon.
 
-1000x44mm
+100x44mm
 ![PCB-LVPS-MINI-3D](https://github.com/user-attachments/assets/64317fe7-b0b9-4c00-8bf2-3e1c6d39dd84)
