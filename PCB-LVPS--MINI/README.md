@@ -1,4 +1,4 @@
-# PCB-PSU-6.3V-MINI
+# PCB-LVPS-MINI
 
 Coming soon.
 
