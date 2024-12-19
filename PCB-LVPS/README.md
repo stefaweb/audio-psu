@@ -1,4 +1,4 @@
-# PCB-PSU-6.3V
+# PCB-LVPS
 
 Coming soon.
 
