@@ -23,7 +23,7 @@ The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 c
 
 Coming soon.
 
-![PCB-PSU-6 3V-3D](https://github.com/user-attachments/assets/34e98fa3-40d0-41bd-b6f7-50f85bdd483e)
+![PCB-PSU-6 3V-3D](https://github.com/user-attachments/assets/9f03d020-68ba-40f5-977a-e1792bf79e97)
 
 # PCB-PSU-6.3V-MINI
 
