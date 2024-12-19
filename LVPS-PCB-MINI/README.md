@@ -1,4 +1,4 @@
-# PCB-LVPS-MINI
+# LVPS-PCB-MINI
 
 Coming soon.
 
