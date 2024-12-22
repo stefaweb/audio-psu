@@ -30,5 +30,5 @@ Coming soon.
 
 Coming soon.
 
-100x44mm
-![PCB-LVPS-MINI-3D](https://github.com/user-attachments/assets/64317fe7-b0b9-4c00-8bf2-3e1c6d39dd84)
+90x44mm
+![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/d810c323-ed44-422a-bdd7-13bb102c5183)
