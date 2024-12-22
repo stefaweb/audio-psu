@@ -2,10 +2,10 @@
 
 Coming soon.
 
-![PCB-LVPS-MINI-3D](https://github.com/user-attachments/assets/64317fe7-b0b9-4c00-8bf2-3e1c6d39dd84)
+![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/d810c323-ed44-422a-bdd7-13bb102c5183)
 
-![PCB-LVPS-MINI-FRONT](https://github.com/user-attachments/assets/3b4e1b82-b31c-4684-8852-5d6c886f267e)
+![LVPS-PCB-MINI-FRONT](https://github.com/user-attachments/assets/15381afd-73f8-4a83-be54-37e92feb2f17)
 
-![PCB-LVPS-MINI-BACK](https://github.com/user-attachments/assets/b3e642a9-e101-4051-a615-dc721600016c)
+![LVPS-PCB-MINI-BACK](https://github.com/user-attachments/assets/37842527-1f40-4f48-b58a-00bc664cb3c0)
 
-![PCB-LVPS-MINI-diagram](https://github.com/user-attachments/assets/ca4b996c-0455-46aa-b884-0646e4385fdf)
+![LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/1e44518c-c834-489d-83f4-bd8cda4a3d38)
