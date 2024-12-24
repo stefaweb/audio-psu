@@ -2,10 +2,10 @@
 
 Coming soon.
 
-![PCB-LVPS-3D](https://github.com/user-attachments/assets/fc6d3215-365b-4e39-9362-3f56c450d7a0)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/9432e010-1265-4923-a268-15719e171f7d)
 
-![PCB-LVPS-PCB-BACK](https://github.com/user-attachments/assets/65e2b761-0592-4520-ac5b-498be44525ed)
+![LVPS-PCB-FRONT](https://github.com/user-attachments/assets/5adbd7c1-3951-4fc0-a05a-a46bbeecd965)
 
-![PCB-LVPS-PCB-FRONT](https://github.com/user-attachments/assets/856874a8-6bf0-477e-86db-c44be0e12758)
+![LVPS-PCB-BACK](https://github.com/user-attachments/assets/84d0df2d-5872-4b8d-9f81-7953c0ed8ba1)
 
 ![PCB-LVPS-diagram](https://github.com/user-attachments/assets/d6a6d9e0-85af-4625-a899-fa1044ad9c46)
