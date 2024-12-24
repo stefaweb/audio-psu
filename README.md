@@ -24,7 +24,7 @@ The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 c
 Coming soon.
 
 150x55mm
-![PCB-LVPS-3D](https://github.com/user-attachments/assets/fc6d3215-365b-4e39-9362-3f56c450d7a0)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/9432e010-1265-4923-a268-15719e171f7d)
 
 # LVPS-PCB-MINI
 
