@@ -31,4 +31,4 @@ Coming soon.
 Project.
 
 150x55mm
-![LVPS-PCB-3D](https://github.com/user-attachments/assets/9432e010-1265-4923-a268-15719e171f7d)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/fd37db97-04f2-49d8-af47-071adc2085bf)
