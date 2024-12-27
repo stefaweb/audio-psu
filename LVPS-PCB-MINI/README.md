@@ -8,5 +8,6 @@ Coming soon.
 
 ![LVPS-PCB-MINI-BACK](https://github.com/user-attachments/assets/3ca76da6-aeb0-4522-b8cd-59c4cdbc5221)
 
-![LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/c099fc7e-8bc1-4e1f-83ed-07e7005a42c9)
+![LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/b6899a81-8350-4411-a303-de7dda9ae64a)
+
 
