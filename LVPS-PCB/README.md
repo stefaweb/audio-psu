@@ -8,5 +8,5 @@ Project.
 
 ![LVPS-PCB-BACK](https://github.com/user-attachments/assets/a29c10c6-0852-4849-ab46-535af56c55a4)
 
-![LVPS-PCB-diagram](https://github.com/user-attachments/assets/c69b63d9-efda-420a-a8b5-33ec38ebd6f6)
+![LVPS-PCB-diagram](https://github.com/user-attachments/assets/4e102ab4-3f01-4359-88a5-3a6c0bb9523d)
 
