@@ -1,6 +1,6 @@
 # LVPS-PCB-MINI
 
-Coming soon.
+Project.
 
 ![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/706fd7f2-b41c-4b08-949a-91791b623108)
 
