@@ -2,7 +2,7 @@
 
 Project.
 
-The LVPS-PCB have been tested with these DC-DC modules:
+The LVPS-PCB-MINI have been tested with these DC-DC modules:
 
 - Step-Down XL4015 Blue model 
 
