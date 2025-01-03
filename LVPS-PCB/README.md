@@ -2,12 +2,12 @@
 
 Project.
 
-![LVPS-PCB-3D](https://github.com/user-attachments/assets/3b57c3dd-d6d2-4c3b-a5e5-51a44b003e70)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/f90203fe-8c2c-44a9-b3fd-32663ca39fe7)
 
-![LVPS-PCB-3D-2](https://github.com/user-attachments/assets/17805acc-b934-4a4f-bea6-e099bea8d188)
+![LVPS-PCB-3D-2](https://github.com/user-attachments/assets/9a6dcc75-650b-4915-ba0c-c0898bf5f7ec)
 
-![LVPS-PCB-FRONT](https://github.com/user-attachments/assets/1050ae43-0467-4550-bc63-cb851268db57)
+![LVPS-PCB-FRONT](https://github.com/user-attachments/assets/91e516c3-1da4-4d20-bcfb-04748e376bb2)
 
-![LVPS-PCB-BACK](https://github.com/user-attachments/assets/d4a851c1-32bd-4ecd-95d1-a61721a0e25e)
+![LVPS-PCB-BACK](https://github.com/user-attachments/assets/9cb9e0d9-1fce-40f6-a305-9d3b13cc37ac)
 
 ![LVPS-PCB-diagram](https://github.com/user-attachments/assets/c870fa12-2950-4665-ad14-6b8ce1da8361)
