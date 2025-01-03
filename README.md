@@ -31,4 +31,6 @@ Project.
 Project.
 
 110x44mm
-![LVPS-PCB-3D](https://github.com/user-attachments/assets/3b57c3dd-d6d2-4c3b-a5e5-51a44b003e70)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/f90203fe-8c2c-44a9-b3fd-32663ca39fe7)
+
+
