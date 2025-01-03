@@ -4,13 +4,13 @@ Project.
 
 The LVPS-PCB have been tested with these DC-DC modules:
 
-- XL4015 Blue model step-down
+- Step-Down XL4015 Blue model 
 
-- HW-468 (TPS40057) 5V step-down
+- Step-Down HW-468 (TPS40057) fixed 5V (easy to put a pot)
 
-- XL6009 Basic Blue model step-up (capacitors 100uF/220uF)
+- Step-Up XL6009 Basic Blue model (capacitors 100uF/220uF)
 
-- XL6009 Red Extended model step-up (capacitors 220uF/220uF + more HF filtering + small inductor)
+- Step-Up XL6009 Red Extended model (capacitors 220uF/220uF + more HF filtering + small inductor)
 
 
 ![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/706fd7f2-b41c-4b08-949a-91791b623108)
