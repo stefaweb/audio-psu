@@ -19,13 +19,6 @@ The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 c
 
 ![Q17_SIgma_on_heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/2e3aa669-a094-4757-9d00-970eb2c82c9c)
 
-# LVPS-PCB-MINI
-
-Project.
-
-90x44mm
-![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/706fd7f2-b41c-4b08-949a-91791b623108)
-
 # LVPS-PCB
 
 Project.
@@ -33,4 +26,9 @@ Project.
 110x44mm
 ![LVPS-PCB-3D](https://github.com/user-attachments/assets/e8aadc45-b1b6-457d-b969-2c952d2aea4b)
 
+# LVPS-PCB-MINI
 
+Project.
+
+90x44mm
+![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/706fd7f2-b41c-4b08-949a-91791b623108)
