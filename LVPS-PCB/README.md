@@ -1,6 +1,6 @@
 # LVPS-PCB
 
-Project.
+The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-Link up to 40W.
 
 The LVPS-PCB support these AC-DC modules:
 
@@ -15,7 +15,6 @@ The LVPS-PCB support these AC-DC modules:
 - Hi-Link HLK-40M
 
 - Recom RACM30
-
 
 ![LVPS-PCB-3D](https://github.com/user-attachments/assets/e8aadc45-b1b6-457d-b969-2c952d2aea4b)
 
