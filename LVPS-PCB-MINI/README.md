@@ -2,7 +2,7 @@
 
 The LVPS-PCB-MINI is a general purpose PCB to be used with popular DC-DC setup up or step down Chinese modules like the XL4015 or the XL6009.
 
-I developed these PCBs to generate 6.3Vdc for heating the KT88 tube filaments for one of my Tube Amplifier but it is especially interesting because it supports many DC-DC module models allowing it to be used to generate various voltages.
+I developed this PCB to generate 6.3Vdc for heating the KT88 tube filaments for one of my Tube Amplifier but it is especially interesting because it supports many DC-DC module models allowing it to be used to generate various voltages.
 
 The PCB (90x44mm) works with a simple diode bridge. The capacitor C2 and C3 has a maximum D13 diameter. The maximum value that fit is 7500uF 10V.
 
