@@ -1,6 +1,10 @@
 # LVPS-PCB-MINI
 
-The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-Link up to 40W.
+The LVPS-PCB-MINI is a general purpose PCB to be used with popular DC-DC setup up or step down Chinese modules like the XL4015 or the XL6009.
+
+I developed these PCBs to generate 6.3Vdc for heating the KT88 tube filaments for one of my Tube Amplifier but it is especially interesting because it supports many DC-DC module models allowing it to be used to generate various voltages.
+
+The PCB (90x44mm) works with a simple diode bridge. The capacitor C2 and C3 has a maximum D13 diameter. The maximum value that fit is 7500uF 10V.
 
 The LVPS-PCB-MINI have been tested with these DC-DC modules:
 
@@ -11,7 +15,6 @@ The LVPS-PCB-MINI have been tested with these DC-DC modules:
 - Step-Up XL6009 Basic Blue model (capacitors 100uF/220uF)
 
 - Step-Up XL6009 Red Extended model (capacitors 220uF/220uF + more HF filtering + small inductor)
-
 
 ![LVPS-PCB-MINI-3D](https://github.com/user-attachments/assets/706fd7f2-b41c-4b08-949a-91791b623108)
 
