@@ -1,6 +1,6 @@
 # LVPS-PCB-MINI
 
-Project.
+The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-Link up to 40W.
 
 The LVPS-PCB-MINI have been tested with these DC-DC modules:
 
