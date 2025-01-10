@@ -34,6 +34,6 @@ The LVPS-PCB-MINI is a general purpose PCB to be used with popular DC-DC setup u
 ![LVPS-PCB-MINI-prod](https://github.com/user-attachments/assets/1a6d3afb-ac96-4f8e-af32-46373a9b263a)
 
 Both boards together.
-![LVPS-DUO](https://github.com/user-attachments/assets/a768f9e4-6d77-4ed8-bc7e-af3ad8aa0a29)
+![LVPS-DUO-TOP](https://github.com/user-attachments/assets/c6f1bbc8-698c-4ff7-8e8a-01cd20f8f09f)
 
 
