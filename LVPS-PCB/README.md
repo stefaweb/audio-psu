@@ -25,4 +25,5 @@ The LVPS-PCB support these AC-DC modules:
 
 ![LVPS-PCB-BACK](https://github.com/user-attachments/assets/219cd856-0391-4f1f-bcce-b2fde1302d4b)
 
-![LVPS-PCB-diagram](https://github.com/user-attachments/assets/c870fa12-2950-4665-ad14-6b8ce1da8361)
+![LVPS-PCB-diagram](https://github.com/user-attachments/assets/e49a8358-ddd4-4588-a342-b8f741da4a4c)
+
