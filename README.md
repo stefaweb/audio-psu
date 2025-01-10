@@ -21,7 +21,7 @@ The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 c
 
 # LVPS-PCB
 
-Project.
+The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-Link up to 40W.
 
 110x44mm
 ![LVPS](https://github.com/user-attachments/assets/4d895ffb-18cb-474e-8489-974a8079b4e0)
