@@ -4,6 +4,7 @@ Project under development.
 
 AC-DC power supply for heating audio tubes.
 
+PCB size: 110 x 44 mm
 ![Image](https://github.com/user-attachments/assets/af36d67a-adfe-43c5-a450-950cb3fb4ff4)
 
 ![Image](https://github.com/user-attachments/assets/137fedd0-37ef-4727-aa9c-2017ae5b9ab2)
