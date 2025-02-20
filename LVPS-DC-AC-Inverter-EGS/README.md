@@ -13,6 +13,6 @@ PCB size: 110 x 44 mm
 
 ![Image](https://github.com/user-attachments/assets/a3d923b7-ceec-48d9-af9a-49af754f5950)
 
-![diag](https://github.com/user-attachments/assets/54a35fba-4b1e-4803-a631-06366509e736)
+![diagram](https://github.com/user-attachments/assets/ecf15c73-93f6-4e5f-9827-ab029d881412)
 
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
