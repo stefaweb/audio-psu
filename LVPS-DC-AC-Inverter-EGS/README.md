@@ -1,4 +1,4 @@
-# LVPS DC-AC Regulated Inverter EGS
+# LVPS DC-AC EGS Regulated Inverter
 
 Project under development.
 
