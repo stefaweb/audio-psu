@@ -7,12 +7,12 @@ The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-
 110x44mm
 ![LVPS](https://github.com/user-attachments/assets/4d895ffb-18cb-474e-8489-974a8079b4e0)
 
-# LVPS-PCB-MINI
+# LVPS-PCB-MINI 1.1
 
 The LVPS-PCB-MINI is a general purpose PCB to be used with popular DC-DC setup up or step down Chinese modules like the XL4015 or the XL6009.
 
 90x44mm
-![LVPS-PCB-MINI-prod](https://github.com/user-attachments/assets/1a6d3afb-ac96-4f8e-af32-46373a9b263a)
+![LVPS-PCB-MINI-1.1](https://github.com/user-attachments/assets/fcd0d2ec-a5aa-4899-97bc-93550c8bf2da)
 
 Both boards together.
 ![LVPS-DUO-TOP](https://github.com/user-attachments/assets/c6f1bbc8-698c-4ff7-8e8a-01cd20f8f09f)
