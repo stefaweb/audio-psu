@@ -1,4 +1,4 @@
-# LVPS-PCB-MINI
+# LVPS-PCB-MINI 1.1
 
 The LVPS-PCB-MINI is a general purpose PCB to be used with popular DC-DC setup up or step down Chinese modules like the XL4015 or the XL6009.
 
@@ -16,12 +16,15 @@ The LVPS-PCB-MINI have been tested with these DC-DC modules:
 
 - Step-Up XL6009 Red Extended model (capacitors 220uF/220uF + more HF filtering + small inductor)
 
-![LVPS-PCB-MINI-prod](https://github.com/user-attachments/assets/1a6d3afb-ac96-4f8e-af32-46373a9b263a)
 
-![LVPS-PCB-MINI-FRONT](https://github.com/user-attachments/assets/b913765f-0fcd-4400-815f-e36d524d26e7)
+![LVPS-PCB-MINI-1.1](https://github.com/user-attachments/assets/c3590d54-d4db-4d16-9008-38e24531d1f2)
 
-![LVPS-PCB-MINI-BACK](https://github.com/user-attachments/assets/ab434024-bc5d-421d-89b2-d09aaaf81393)
+![LVPS-PCB-MINI-1.1-bridge](https://github.com/user-attachments/assets/5e847c7f-9b43-4487-abdf-37c864737952)
 
-![LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/4cc56109-fa68-4648-b529-a23f1d3735fe)
+![LVPS-PCB-MINI-FRONT](https://github.com/user-attachments/assets/04619e36-bd6c-48b6-9638-de155ccc3d29)
+
+![LVPS-PCB-MINI-BACK](https://github.com/user-attachments/assets/a1cb2cf8-ad95-4d5f-85cb-4bb3a2d753ea)
+
+![[LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/c41f34e6-40ec-44bb-9365-592ee7e04940)
 
 ![4modules](https://github.com/user-attachments/assets/abdd8132-f1ae-4a49-bdf0-24c03094e017)
