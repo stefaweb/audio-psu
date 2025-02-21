@@ -15,8 +15,8 @@ The LVPS-PCB-MINI have been tested with these DC-DC modules:
 - Step-Up XL6009 Basic Blue model (capacitors 100uF/220uF)
 
 - Step-Up XL6009 Red Extended model (capacitors 220uF/220uF + more HF filtering + small inductor)
-
-
+<br>
+<br>
 
 The LVPS-PCB-MINI configured for a power supply with an AC-DC 12V module.
 
