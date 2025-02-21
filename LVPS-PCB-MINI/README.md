@@ -18,11 +18,11 @@ The LVPS-PCB-MINI have been tested with these DC-DC modules:
 <br>
 <br>
 
-The LVPS-PCB-MINI configured for to be used with an AC-DC 12V power supply.
+The LVPS-PCB-MINI configured to be used with an AC-DC 12V power supply.
 
 ![LVPS-PCB-MINI-1.1](https://github.com/user-attachments/assets/c3590d54-d4db-4d16-9008-38e24531d1f2)
 
-The LVPS-PCB-MINI configured with a bridge for a transformer power supply.
+The LVPS-PCB-MINI configured with a bridge to be used with a transformer.
 
 ![LVPS-PCB-MINI-1.1-bridge](https://github.com/user-attachments/assets/5e847c7f-9b43-4487-abdf-37c864737952)
 
