@@ -25,6 +25,6 @@ The LVPS-PCB-MINI have been tested with these DC-DC modules:
 
 ![LVPS-PCB-MINI-BACK](https://github.com/user-attachments/assets/a1cb2cf8-ad95-4d5f-85cb-4bb3a2d753ea)
 
-![[LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/c41f34e6-40ec-44bb-9365-592ee7e04940)
+![LVPS-PCB-MINI-diagram](https://github.com/user-attachments/assets/c41f34e6-40ec-44bb-9365-592ee7e04940)
 
 ![4modules](https://github.com/user-attachments/assets/abdd8132-f1ae-4a49-bdf0-24c03094e017)
