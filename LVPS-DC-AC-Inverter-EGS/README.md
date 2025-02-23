@@ -14,6 +14,6 @@ PCB size: 110 x 44 mm
 
 ![Back](https://github.com/user-attachments/assets/ac9a6694-d086-44f4-b7f5-4cbb6fb62821)
 
-[LVPS-DC-AC-Inverter-EGS-diagram.pdf](https://github.com/user-attachments/files/18929476/LVPS-DC-AC-Inverter-EGS-diagram.pdf)
+![Diagram](https://github.com/user-attachments/assets/909c326a-4f75-4d16-ac92-612fdcd7bd0d)
 
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
