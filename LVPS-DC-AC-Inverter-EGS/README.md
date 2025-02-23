@@ -1,6 +1,6 @@
 # LVPS DC-AC Regulated Inverter EGS
 
-Project under development.
+<b>Project under development.</b>
 
 DC-AC 4-8V AC power supply for heating audio tubes.
 
