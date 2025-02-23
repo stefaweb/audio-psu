@@ -2,7 +2,18 @@
 
 Project under development.
 
-DC-AC 4-8V AC 50Hz power supply for heating audio tubes.
+DC-AC 4-8V AC power supply for heating audio tubes.
+
+This DC-AC regulated power supply board is used to power the audio tube heater with AC voltage. The voltage is adjustable from 4V to 8V via a small potentiometer on the PCB.
+
+The LVPS DC-AC Regulated Inverter EGS board is based on the use of the EGS002 module. It is a control board for pure sine wave inverters, primarily used in DC-AC power conversion systems.
+
+It integrates the EG8010 chipset for generating pure sine waves with digital control and dead-time management. The module supports fixed frequencies of 50Hz and 60Hz, as well as adjustable frequencies ranging from 0 to 400Hz.
+
+It offers protections against overvoltage, undervoltage, overcurrent, and overheating.
+
+The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a voltage of 12Vdc or 15Vdc and can be configured with different inductors in the output filter depending on the types of audio tubes to be heated.
+
 
 PCB size: 110 x 44 mm
 
