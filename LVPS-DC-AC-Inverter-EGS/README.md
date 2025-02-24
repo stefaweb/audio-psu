@@ -1,6 +1,6 @@
 # LVPS DC-AC Regulated Inverter EGS
 
-Project under development.
+<b>Project under development.</b>
 
 DC-AC 4-8V AC power supply for heating audio tubes.
 
@@ -12,7 +12,7 @@ It integrates the EG8010 chipset for generating pure sine waves with digital con
 
 It offers protections against overvoltage, undervoltage, overcurrent, and overheating.
 
-The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a voltage of 12Vdc or 15Vdc and can be configured with different inductors in the output filter depending on the types of audio tubes to be heated and the needed power.
+The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a voltage of 12Vdc or 15Vdc (prefered) and can be configured with different inductors in the output filter depending on the types of audio tubes to be heated and the needed power.
 
 
 PCB size: 110 x 44 mm
