@@ -17,7 +17,7 @@ The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a volta
 
 PCB size: 110 x 44 mm
 
-![3D-VIEW](https://github.com/user-attachments/assets/4148b6c7-2e6c-4a0e-82f6-ff67007ca816)
+![proto_1_live](https://github.com/user-attachments/assets/02422585-1285-445d-99c7-c7ba34aeaa83)
 
 ![3D](https://github.com/user-attachments/assets/2496f39d-2d90-4a6f-acf9-cefd24a25147)
 
@@ -28,5 +28,3 @@ PCB size: 110 x 44 mm
 ![Diagram](https://github.com/user-attachments/assets/bbabe1cd-153d-43d3-a219-19bb86c673a7)
 
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
-
-![proto_1_live](https://github.com/user-attachments/assets/02422585-1285-445d-99c7-c7ba34aeaa83)
