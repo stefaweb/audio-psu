@@ -27,4 +27,5 @@ PCB size: 110 x 44 mm
 
 ![Diagram](https://github.com/user-attachments/assets/1dfdef55-2974-4432-98a4-57b245af7615)
 
+Pink = generator - Yellow = EGS board
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
