@@ -17,7 +17,7 @@ The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a volta
 The board has an output on 3 pins with an optional middle point (2 resistors to be soldered under the PCB). This avoids soldering the cathode resistors onto the tube socket.
 
 
-PCB size: 110 x 44 mm
+PCB size: 110 x 44 mm, Height: 42 mm
 ![proto_1_live](https://github.com/user-attachments/assets/02422585-1285-445d-99c7-c7ba34aeaa83)
 
 ![3D](https://github.com/user-attachments/assets/2496f39d-2d90-4a6f-acf9-cefd24a25147)
