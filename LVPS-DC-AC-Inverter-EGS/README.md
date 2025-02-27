@@ -4,7 +4,7 @@
 
 DC-AC 4-8V AC power supply for heating audio tubes.
 
-This DC-AC regulated power supply board is used to power the audio tube heater with AC voltage. The voltage is adjustable from 4V to 8V via a small potentiometer on the PCB.
+This DC-AC regulated power supply board is used to power the audio tube heater with AC voltage. The voltage is adjustable from 4V to 8V via a potentiometer on the PCB.
 
 The LVPS DC-AC Regulated Inverter EGS board is based on the use of the EGS002 module. It is a control board for pure sine wave inverters, primarily used in DC-AC power conversion systems.
 
