@@ -12,7 +12,7 @@ It integrates the EG8010 chipset for generating pure sine waves with digital con
 
 It offers protections against overvoltage, undervoltage, overcurrent, and overheating.
 
-The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a voltage of 12Vdc or 15Vdc (prefered) and can be configured with different inductors in the output filter depending on the types of audio tubes to be heated and the needed power.
+The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with a voltage of 12Vdc or 15Vdc (prefered). It can be configured with different inductors in the output filter depending on the types of audio tubes to be heated and the needed power.
 
 The board has an output on 3 pins with an optional middle point (2 resistors to be soldered under the PCB).
 
