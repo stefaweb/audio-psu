@@ -20,6 +20,8 @@ The board has an output on 3 pins with an optional middle point (2 resistors to 
 PCB size: 110 x 44 mm, Height: 42 mm
 ![proto_1_live](https://github.com/user-attachments/assets/02422585-1285-445d-99c7-c7ba34aeaa83)
 
+![EGS-3.3mH](https://github.com/user-attachments/assets/ae89ef2d-0272-4c18-8b69-7ce8ab1d3bec)
+
 ![3D](https://github.com/user-attachments/assets/2496f39d-2d90-4a6f-acf9-cefd24a25147)
 
 ![Front](https://github.com/user-attachments/assets/5f82ab2c-a95d-4607-acbc-b7f53503b762)
