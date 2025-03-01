@@ -30,3 +30,8 @@ PCB size: 110 x 44 mm, Height: 42 mm
 
 Pink = generator - Yellow = EGS board
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
+
+<img width="1704" alt="300B-REW-0.1mH-962uF" src="https://github.com/user-attachments/assets/02176283-8955-4534-bebf-a6e704680778" />
+
+<img width="1279" alt="300B-QA-3.3mH-260uF" src="https://github.com/user-attachments/assets/3a844ac6-59e6-4d95-9d79-ff05fc5693a9" />
+
