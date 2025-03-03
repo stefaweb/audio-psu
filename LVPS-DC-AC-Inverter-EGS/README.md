@@ -22,13 +22,13 @@ PCB size: 110 x 44 mm, Height: 42 mm
 
 ![EGS-3.3mH](https://github.com/user-attachments/assets/ae89ef2d-0272-4c18-8b69-7ce8ab1d3bec)
 
-![3D](https://github.com/user-attachments/assets/2496f39d-2d90-4a6f-acf9-cefd24a25147)
+![3D](https://github.com/user-attachments/assets/87b50d2b-ca8c-4503-b92b-42431186b420)
 
-![Front](https://github.com/user-attachments/assets/5f82ab2c-a95d-4607-acbc-b7f53503b762)
+![Front](https://github.com/user-attachments/assets/363657f9-4932-4aad-a9ed-54e19f110847)
 
-![Back](https://github.com/user-attachments/assets/ac9a6694-d086-44f4-b7f5-4cbb6fb62821)
+![Back](https://github.com/user-attachments/assets/841fb6b5-40ff-40f1-99a0-d31868138404)
 
-![Diagram](https://github.com/user-attachments/assets/65d54ccd-4a9c-4e1e-8e5e-a0d018c87817)
+![Diagram](https://github.com/user-attachments/assets/4c3823e1-1a29-4a95-8102-7064eb0c60b6)
 
 Pink = generator - Yellow = EGS board
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
