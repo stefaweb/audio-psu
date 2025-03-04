@@ -10,7 +10,7 @@ The LVPS DC-AC Regulated Inverter EGS board is based on the use of the EGS002 mo
 
 It integrates the EG8010 chipset for generating pure sine waves with digital control and dead-time management. The module supports fixed frequencies of 50Hz and 60Hz, as well as adjustable frequencies ranging from 0 to 400Hz (need mods on the EGS002 module).
 
-It offers protections against overvoltage, undervoltage, overcurrent, and overheating. The board is also equipped with an independent fuse to protect the EGS002 module (5V and 12V).
+It offers protections against overvoltage, undervoltage, overcurrent, and overheating. The board is also equipped with an independent fuse to protect the EGS002 module (5V and 12V). To avoid damaging the tubes, there is a 3 second soft start mode by default.
 
 The LVPS DC-AC Regulated Inverter EGS board operates up to about 4A with an input voltage of 15Vdc or 24Vdc. It can be configured with different inductors in the output filter depending on the types of audio tubes to be heated and the needed power.
 
