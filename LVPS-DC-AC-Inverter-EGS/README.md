@@ -21,6 +21,7 @@ The PCB is expected to be available in April 2025.
 <br><br>
 
 PCB size: 110 x 44 mm, Height: 42 mm
+
 ![proto_1_live](https://github.com/user-attachments/assets/02422585-1285-445d-99c7-c7ba34aeaa83)
 
 ![EGS-3.3mH](https://github.com/user-attachments/assets/ae89ef2d-0272-4c18-8b69-7ce8ab1d3bec)
