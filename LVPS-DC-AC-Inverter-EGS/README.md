@@ -22,6 +22,8 @@ PCB size: 110 x 44 mm, Height: 42 mm
 
 ![EGS-3.3mH](https://github.com/user-attachments/assets/ae89ef2d-0272-4c18-8b69-7ce8ab1d3bec)
 
+Last prototype version.
+
 ![3D](https://github.com/user-attachments/assets/a6120a3a-62c9-4db3-9469-7f31b0ac5dce)
 
 ![Front](https://github.com/user-attachments/assets/19bbad18-7f58-453f-9d53-71d9bfd4a7c2)
