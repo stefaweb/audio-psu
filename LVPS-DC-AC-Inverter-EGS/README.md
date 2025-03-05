@@ -34,7 +34,7 @@ Last PCB version.
 
 ![Back](https://github.com/user-attachments/assets/8486b1d9-2e4d-49d5-8de5-5380c9e94615)
 
-![Diagram](https://github.com/user-attachments/assets/ff6a02d1-1f45-47e7-a725-d86a7fb1e6cf)
+![Diagram](https://github.com/user-attachments/assets/4c6e523b-e8e6-4771-bab6-e19455b37ac1)
 
 Pink = generator - Yellow = EGS board
 ![300B](https://github.com/user-attachments/assets/f6abea5d-960c-43b1-8391-2fd42699885a)
