@@ -23,7 +23,7 @@ Universal Power Supply for Class B amplifiers.
 
 Classic version with Vishay bridge and Nichicon Muse capacitors (max 63V).
 ![Q17-PSU-MUSE](https://github.com/user-attachments/assets/87f4b24f-f6e2-438b-9897-0356e6ff6ba1)
-![muse](https://github.com/user-attachments/assets/7e81196a-3d48-4c44-a244-bb93deb5a5aa)
+
 # Q17-PSU-MONO version 1.0.1<br>
 
 Universal mono bridge Power Supply for Class B amplifiers.
