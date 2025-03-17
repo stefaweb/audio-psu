@@ -16,7 +16,7 @@ The board has an output on 3 pins with an optional middle point (2 resistors to 
 
 <b>Specifications:</b>
 
-Voltage input: 15-24V DC<br>
+DC voltage input: 15-24V<br>
 AC 50Hz output: 4V-8V<br>
 SNR: 58dB-64dB (depend of the type of coil)<br>
 Distorsion: < 1%<br>
