@@ -20,10 +20,9 @@ Voltage input: 15-24V DC<br>
 AC 50Hz output: 4V-8V<br>
 SNR: 58dB-64dB (depend of the type of coil)<br>
 Distorsion: < 1%<br>
+PCB size: 110 x 44 mm, Height: 42 mm
 
 <br><br>
-
-PCB size: 110 x 44 mm, Height: 42 mm
 
 Final version 1.0.3
 
