@@ -48,6 +48,8 @@ Pink = generator - Yellow = EGS board
 300B (5V 1.1A) with 0.1mH 962uF and ƒ 500Hz
 <img width="1704" alt="300B-0.1mH-962uF-1.1A-REW" src="https://github.com/user-attachments/assets/90798f62-60ff-491b-b303-c54e215a05f7" />
 
+Tests with prototype (to be updated).
+
 300B (5V 1.1A) with 3.3mH 260uF and ƒ 170Hz
 <img width="1279" alt="300B-QA-3.3mH-260uF" src="https://github.com/user-attachments/assets/3a844ac6-59e6-4d95-9d79-ff05fc5693a9" />
 
