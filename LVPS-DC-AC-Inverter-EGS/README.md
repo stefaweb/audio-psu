@@ -1,6 +1,4 @@
-# LVPS DC-AC Regulated Inverter EGS
-
-<b>Project under development.</b>
+# LVPS DC-AC Regulated Inverter EGS 1.0.3
 
 DC-AC 4-8V AC power supply for heating audio tubes.
 
@@ -22,11 +20,15 @@ The PCB is expected to be available in April 2025.
 
 PCB size: 110 x 44 mm, Height: 42 mm
 
+Final version 1.0.3
+
 ![Image](https://github.com/user-attachments/assets/c0117173-db08-4180-b7b3-ac5c3b566903)
+
+Prototype with an 3.3mH coil.
 
 ![EGS-3.3mH](https://github.com/user-attachments/assets/ae89ef2d-0272-4c18-8b69-7ce8ab1d3bec)
 
-Last PCB version.
+Last PCB version 1.0.3.
 
 ![3D](https://github.com/user-attachments/assets/a6120a3a-62c9-4db3-9469-7f31b0ac5dce)
 
