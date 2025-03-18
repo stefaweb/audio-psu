@@ -24,11 +24,11 @@ PCB size: 110 x 44 mm, Height: 42 mm (with the EGS002 board)
 
 <br><br>
 
-Final version 1.0.3
+Final version 1.0.3.
 
 ![Image](https://github.com/user-attachments/assets/c0117173-db08-4180-b7b3-ac5c3b566903)
 
-Prototype with an 3.3mH coil.
+Final version 1.0.3 with an 3.3mH coil.
 
 ![DC-AC-Inverter-1.0.3-Coil_3.3mH](https://github.com/user-attachments/assets/6d9a9ebf-b9ae-4b36-9a0a-4edaf3ae62eb)
 
