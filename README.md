@@ -1,5 +1,14 @@
 # audio-psu
 
+# LVPS DC-AC Regulated Inverter EGS
+
+DC-AC 4-8V AC power supply for heating audio tubes.
+
+110x44mm
+![EGS_Module_1](https://github.com/user-attachments/assets/cd011838-cbb3-44f7-9b62-e5801d70ae81)
+
+![EGS_Module_2](https://github.com/user-attachments/assets/a345502a-ec86-4e1f-bd9b-1321c08d5797)
+
 # LVPS-PCB
 
 The LVPS-PCB allows the use of various AC-DC modules from Meanwell, Recom or Hi-Link up to 40W.
