@@ -18,13 +18,12 @@ The LVPS-PCB support these AC-DC modules:
 
 ![LVPS](https://github.com/user-attachments/assets/4d895ffb-18cb-474e-8489-974a8079b4e0)
 
-![LVPS-PCB-3D](https://github.com/user-attachments/assets/e8aadc45-b1b6-457d-b969-2c952d2aea4b)
+![LVPS-PCB-3D](https://github.com/user-attachments/assets/9f32b942-aaf1-4d37-89e7-8b0019ef1d18)
 
-![LVPS-PCB-3D-2](https://github.com/user-attachments/assets/9116982b-3835-43ea-8799-648677c4c87c)
+![LVPS-PCB-3D-2](https://github.com/user-attachments/assets/80478064-09cf-4851-ab73-4aa6d0f00e24)
 
-![LVPS-PCB-FRONT](https://github.com/user-attachments/assets/d9b5cbb4-f624-4c05-acef-d61aadb5bac4)
+![LVPS-PCB-FRONT](https://github.com/user-attachments/assets/967147bf-42c5-4b20-ae5d-0dc12f07a8d3)
 
-![LVPS-PCB-BACK](https://github.com/user-attachments/assets/219cd856-0391-4f1f-bcce-b2fde1302d4b)
+![LVPS-PCB-BACK](https://github.com/user-attachments/assets/0027e42b-a918-4283-b660-f2f5eb3ceba9)
 
 ![LVPS-PCB-diagram](https://github.com/user-attachments/assets/e49a8358-ddd4-4588-a342-b8f741da4a4c)
-
