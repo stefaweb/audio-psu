@@ -3,15 +3,14 @@
 Under development.
 
 
-![TUBE-HV-PSU-3D-VIEW](https://github.com/user-attachments/assets/da3a8dd2-118f-40e3-8da1-9f54543e3b82)
+![HV-MODULE-3D](https://github.com/user-attachments/assets/cfd19d39-2005-4726-b591-de19ce519ffe)
 
-![TUBE-HV-PSU-3D](https://github.com/user-attachments/assets/4579fb96-4562-4174-9a3b-5d0f8d76b816)
+![HV-MODULE-3D-VIEW](https://github.com/user-attachments/assets/b4b230e8-fa52-4b23-b9df-bbdb804084c3)
 
-![TUBE-HV-PSU-BACK-3D](https://github.com/user-attachments/assets/e8023933-ba2f-4a7a-acef-b23c776dc43f)
+![HV-MODULE-BACK-3D](https://github.com/user-attachments/assets/b6c76396-f942-448f-841a-88a5d512eb9e)
 
-![Diagram](https://github.com/user-attachments/assets/7c35eb1a-cd62-486c-915e-99d049249a80)
+![HV-MODULE-FRONT](https://github.com/user-attachments/assets/f82d4d85-79bb-4895-8fdf-65d54c18dcfd)
 
-![TUBE-HV-PSU-FRONT](https://github.com/user-attachments/assets/c3d831ae-36c9-41b7-8afc-60a155093dee)
+![HV-MODULE-BACK](https://github.com/user-attachments/assets/f759c076-4f8a-417c-bd78-92bf831ae8d9)
 
-![TUBE-HV-PSU-BACK](https://github.com/user-attachments/assets/ea8705fb-2b67-4e84-8781-8f171e11e5d8)
-
+![Diagram](https://github.com/user-attachments/assets/60b966ed-7c9e-4319-9b75-d07b7242b16f)
