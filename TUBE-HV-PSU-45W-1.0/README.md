@@ -1,4 +1,4 @@
-# LVPS DC-AC Regulated Inverter EGS 1.0.3
+# TUBE-HV-PSU-45W-1.0
 
 Under development.
 
