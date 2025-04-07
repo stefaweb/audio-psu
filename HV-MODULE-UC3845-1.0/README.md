@@ -13,4 +13,4 @@ Under development.
 
 ![HV-MODULE-BACK](https://github.com/user-attachments/assets/f759c076-4f8a-417c-bd78-92bf831ae8d9)
 
-![Diagram](https://github.com/user-attachments/assets/60b966ed-7c9e-4319-9b75-d07b7242b16f)
+![Diagram](https://github.com/user-attachments/assets/e8d2309e-17bd-426c-a6c3-8947a6f5ff98)
