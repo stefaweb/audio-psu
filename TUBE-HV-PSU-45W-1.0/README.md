@@ -2,6 +2,7 @@
 
 Under development.
 
+Size: 110x130mm
 ![TUBE-HV-PSU-3D](https://github.com/user-attachments/assets/0c6f0f80-2e74-4bf9-a8bf-ec191b98817a)
 
 ![TUBE-HV-PSU-3D-VIEW](https://github.com/user-attachments/assets/efa557bf-8764-475a-bd9a-0da71d2fa071)
