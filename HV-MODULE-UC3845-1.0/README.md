@@ -13,4 +13,4 @@ Size: 80x50mm
 
 ![HV-MODULE-BACK](https://github.com/user-attachments/assets/f759c076-4f8a-417c-bd78-92bf831ae8d9)
 
-![Diagram](https://github.com/user-attachments/assets/eff6d23c-8e2b-47e9-a916-73818905b99d)
+![Diagram](https://github.com/user-attachments/assets/f3eee5e9-bedf-4842-88d3-a88277237060)
