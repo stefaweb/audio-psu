@@ -1,0 +1,38 @@
+* SPICE model PNP bipolar transistor ***BC556B***
+* Use the symbol file ***bc556b.asy***
+*
+* (c) Diotec Semiconductor AG
+* www.diotec.com
+* 2017-12-04
+*
+*********************************************************
+* This model is for simulation purposes only. It does   *
+* not replace reviewing of the data sheet nor real life *
+* testing of the part inside the application.           *
+*********************************************************
+*
+.subckt BC556B  E  B  C  params: Vceo=65 Vcbo=80 Vebo=5 Ic=100m hfe=450 Ices=.2n Vbe=600m ft=150Meg Ccbo=3.5p Cebo=10p Rc=1 Rb=.1 Re=.1 Eg=1.11 Xti=3
+
+* Above values are an example for the ***BC556B***. Using the
+* above symbol file allows for direct insertion of other values
+* according to these data sheet parameters:
+*
+* Vceo    	Collector Emitter voltage, Base open
+* Vcbo		Collector Base voltage, Emitter open
+* Vebo    	Emitter Base voltage, Collector open
+* Ic		DC Collector current
+* hfe		Max DC current gain
+* Ices		Collector Emitter cut-off current
+* Vbe		Min Base Emitter voltage
+* ft		Gain bandwidth product
+* Ccbo		Typ. Collector Base capacitance
+* Cebo		Typ. Emitter Base capacitance
+* Rc/Rb/Re	Fixed values
+*
+* Activation energy: Eg=1.11 for Si (pnp) transistor
+* Sat.-current temp. exp: Xti=3 for Si (pnp) transistor
+
+Q  E B C  Transistor
+
+.model BC556B PNP(IS=3.83E-14 NF=1.008 ISE=1.22E-14 NE=1.528 BF=344.4 IKF=0.08039 VAF=21.11 NR=1.005 ISC=2.85E-13 NC=1.28 BR=14.84 IKR=0.047 VAR=32.02 RB=1 IRB=1.00E-06 RBM=1 RE=0.6202 RC=0.5713 XTB=0 EG=1.11 XTI=3 CJE=1.23E-11 VJE=0.6106 MJE=0.378 TF=5.60E-10 XTF=3.414 VTF=5.23 ITF=0.1483 PTF=0 CJC=1.08E-11 VJC=0.1022 MJC=0.3563 XCJC=0.6288 TR=1.00E-32 CJS=0 VJS=0.75 MJS=0.333 FC=0.8027 Vceo=65 Icrating=100m mfg=Philips)
+.ends

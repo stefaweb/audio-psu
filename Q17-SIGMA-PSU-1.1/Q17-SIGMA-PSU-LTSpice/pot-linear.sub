@@ -1,0 +1,11 @@
+* This is the potentiometer
+*      _____
+*  1--|_____|--2
+*        |
+*        3
+*
+.SUBCKT pot-linear 1 2 3
+.param wp=limit(w,1m,.999)
+R0 1 3 {R*(1-wp)}
+R1 3 2 {R*(wp)}
+.ENDS
