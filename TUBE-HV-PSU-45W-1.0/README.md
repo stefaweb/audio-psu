@@ -13,4 +13,4 @@ Size: 110x130mm
 
 ![TUBE-HV-PSU-BACK](https://github.com/user-attachments/assets/9422df84-f08b-420d-8d47-11519640a9f9)
 
-![Diagram](https://github.com/user-attachments/assets/8d941902-d23f-4d31-950a-82e0b556c7f7)
+![Diagram](https://github.com/user-attachments/assets/2193585c-dea9-4eca-8916-e2d955cb6a84)
