@@ -1,5 +1,8 @@
 # HV-MODULE-UC3845-1.0
 
+High Voltage Power Supply
+24V to 500V 50W
+
 Under development.
 
 Size: 80x50mm
