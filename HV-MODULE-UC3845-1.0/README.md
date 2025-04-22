@@ -2,9 +2,10 @@
 
 DC-DC High Voltage 50W Power Supply 
 
-Input: 24V
-Positive Output: +180V to +500V
-Negative Output: -160V (no load)
+Input: 24V<br>
+Positive Output: +180V to +500V<br>
+Negative Output: -160V (no load)<br>
+<br>
 
 Under development.
 
