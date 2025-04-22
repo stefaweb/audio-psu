@@ -6,14 +6,14 @@ Under development.
 
 Size: 80x50mm
 
-![HV-MODULE-3D](https://github.com/user-attachments/assets/975a48c6-ba1a-4ab1-83f3-269977a82ac5)
+![Image](https://github.com/user-attachments/assets/fa569d10-a4db-476f-a332-08b0498b50d8)
 
-![HV-MODULE-3D-VIEW](https://github.com/user-attachments/assets/c0a9186a-6aa5-40be-82ab-453a5404ae30)
+![Image](https://github.com/user-attachments/assets/d0415a7f-c7c1-45c0-b269-1a48c2f0f037)
 
-![HV-MODULE-BACK-3D](https://github.com/user-attachments/assets/b5f63e1c-a6d6-446f-ac04-78aae1f0596e)
+![Image](https://github.com/user-attachments/assets/4e616072-9c96-4a69-9af9-4c9e20c8959c)
 
-![HV-MODULE-FRONT](https://github.com/user-attachments/assets/6f2fd89b-4953-4bdf-9dc6-70d9e3b91044)
+![Image](https://github.com/user-attachments/assets/333d49b2-08a4-4314-a925-081ae0835d9c)
 
-![HV-MODULE-BACK](https://github.com/user-attachments/assets/289ad1b7-107e-435f-ae23-abb351f950b5)
+![Image](https://github.com/user-attachments/assets/cf425608-26ea-41c0-a3d9-9d77d3818c4e)
 
-![Diagram](https://github.com/user-attachments/assets/9215676d-52b0-4a16-92b0-9e75aae9ec5e)
+![Image](https://github.com/user-attachments/assets/f2cacac5-7d57-442f-8b0e-4ccdc5679556)
