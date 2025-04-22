@@ -1,6 +1,10 @@
 # HV-MODULE-UC3845-1.0
 
-High Voltage Power Supply (24V to 500V 50W)
+DC-DC High Voltage 50W Power Supply 
+
+Input: 24V
+Positive Output: +180V to +500V
+Negative Output: -160V (no load)
 
 Under development.
 
