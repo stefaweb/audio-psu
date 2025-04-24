@@ -11,14 +11,14 @@ Under development.
 
 Size: 80x50mm
 
-![Image](https://github.com/user-attachments/assets/fa569d10-a4db-476f-a332-08b0498b50d8)
+![Image](https://github.com/user-attachments/assets/8788ed73-2647-4058-88a9-97b672f884f4)
 
-![Image](https://github.com/user-attachments/assets/d0415a7f-c7c1-45c0-b269-1a48c2f0f037)
+![Image](https://github.com/user-attachments/assets/b3509f62-622a-41bc-8c71-4800233e28fc)
 
-![Image](https://github.com/user-attachments/assets/4e616072-9c96-4a69-9af9-4c9e20c8959c)
+![Image](https://github.com/user-attachments/assets/3535f3ae-f122-4646-ada2-9cf226783a09)
 
-![Image](https://github.com/user-attachments/assets/333d49b2-08a4-4314-a925-081ae0835d9c)
+![Image](https://github.com/user-attachments/assets/9906ca09-d1ac-466b-9966-65a86adda9ee)
 
-![Image](https://github.com/user-attachments/assets/cf425608-26ea-41c0-a3d9-9d77d3818c4e)
+![Image](https://github.com/user-attachments/assets/7dadef04-e151-4165-8aa8-388b2eeff4b2)
 
-![Image](https://github.com/user-attachments/assets/f2cacac5-7d57-442f-8b0e-4ccdc5679556)
+![Image](https://github.com/user-attachments/assets/599f9eb9-5f24-40c8-a282-939236bec830)
