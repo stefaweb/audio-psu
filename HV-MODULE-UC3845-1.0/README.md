@@ -4,7 +4,7 @@ DC-DC High Voltage 50W Power Supply
 
 Input: 24V<br>
 Positive Output: +180V to +500V<br>
-Negative Output: -160V (no load, only for tube BIAS)<br>
+Negative Output: -80V to -200V (no load, only for tube BIAS)<br>
 <br>
 
 Under development.
