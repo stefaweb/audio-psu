@@ -10,8 +10,8 @@ Output ripple at 350V 60mA: 200mV<br>
 24V input consumption at 350V 60mA: 1A<br>
 Overcurent protection<br>
 Overtemperature protection<br>
-Softstart<br>
-Fuse<br>
+Softstart (1s)<br>
+3A fuse protection <br>
 <br>
 
 Under development.
