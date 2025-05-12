@@ -28,4 +28,4 @@ Size: 80x50mm
 
 ![Image](https://github.com/user-attachments/assets/f564e770-2014-4b49-9018-84505962889b)
 
-![Image](https://github.com/user-attachments/assets/7cbdb010-67b5-47bb-b89e-2a316ec635be)
+![Image](https://github.com/user-attachments/assets/dbf98112-117c-415e-bf91-586bd42b7746)
