@@ -11,7 +11,8 @@ Output ripple at 350V 60mA: 200mV<br>
 Overcurent protection<br>
 Overtemperature protection<br>
 Softstart (1s)<br>
-3A fuse protection <br>
+3A fuse protection<br>
+Possibility to generate a negative voltage on the main output by modifying a few components.
 <br>
 
 Under development.
