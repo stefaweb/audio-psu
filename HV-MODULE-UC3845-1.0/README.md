@@ -12,7 +12,7 @@ Overcurent protection<br>
 Overtemperature protection<br>
 Softstart (1s)<br>
 3A fuse protection<br>
-Possibility to generate a negative voltage on the main output by modifying a few components.
+Possibility to generate a negative voltage on the main output by modifying a few components (inverter mode).
 <br>
 
 Under development.
