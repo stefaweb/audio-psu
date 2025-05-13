@@ -32,4 +32,4 @@ First prototype
 
 ![Image](https://github.com/user-attachments/assets/f564e770-2014-4b49-9018-84505962889b)
 
-![Image](https://github.com/user-attachments/assets/dbf98112-117c-415e-bf91-586bd42b7746)
+![Image](https://github.com/user-attachments/assets/7a181c82-45df-4976-b352-e532ee1cc920)
