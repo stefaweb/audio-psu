@@ -19,7 +19,7 @@ Under development.
 
 Size: 80x50mm
 
-First prototype
+Second prototype
 ![Image](https://github.com/user-attachments/assets/7f58a1af-ec62-44aa-819f-a93eed9e939e)
 
 ![Image](https://github.com/user-attachments/assets/7f9a70e6-f7a3-4362-b560-5d9da122fc6a)
