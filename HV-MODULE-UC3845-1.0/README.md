@@ -6,7 +6,7 @@ DC-DC High Voltage 50W Power Supply
 Input: 24V<br>
 Positive Output: +180V to +500V<br>
 Negative Output: -80V to -200V (no load, only for tube BIAS)<br>
-Output ripple at 350V 60mA: 200mV<br>
+Output ripple at 350V 60mA: 180V<br>
 24V input consumption at 350V 60mA: 1A<br>
 Overcurent protection<br>
 Overtemperature protection<br>
@@ -20,16 +20,19 @@ Under development.
 Size: 80x50mm
 
 First prototype
-![Image](https://github.com/user-attachments/assets/be2b65f6-3691-49b4-bf41-25441352c2a8)
+![Image](https://github.com/user-attachments/assets/7f58a1af-ec62-44aa-819f-a93eed9e939e)
 
-![Image](https://github.com/user-attachments/assets/9c2de501-8905-44cd-9671-67be9b18619a)
+![Image](https://github.com/user-attachments/assets/7f9a70e6-f7a3-4362-b560-5d9da122fc6a)
 
-![Image](https://github.com/user-attachments/assets/afbc4ae3-bcda-4f46-aaf2-95bfe8d835a7)
+![Image](https://github.com/user-attachments/assets/4506c8f7-d786-4b1c-8a17-9a487e093c1d)
 
-![Image](https://github.com/user-attachments/assets/a87e41d8-d983-4f24-875d-5a194d580735)
+![Image](https://github.com/user-attachments/assets/e15d518a-65ec-48c6-b159-b984191eceba)
 
-![Image](https://github.com/user-attachments/assets/ab89f1ac-c6d2-46cd-acf4-338901f530f8)
+![Image](https://github.com/user-attachments/assets/6339584a-48f5-45cb-8416-d93fa544afd3)
 
-![Image](https://github.com/user-attachments/assets/25055587-1e67-4b55-81bb-37522ad65efa)
+![Image](https://github.com/user-attachments/assets/cbd57d5b-76af-4f29-bc5c-beb47fb3cfd4)
 
-![Image](https://github.com/user-attachments/assets/cf7fdcd0-44c9-45e1-bb34-02788d23a526)
+![Image](https://github.com/user-attachments/assets/1576f4ce-130a-4c69-81e6-dd7ca1a29197)
+
+
+
