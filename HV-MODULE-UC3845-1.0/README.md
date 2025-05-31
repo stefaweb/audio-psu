@@ -22,14 +22,14 @@ Size: 80x50mm
 Second prototype
 ![Image](https://github.com/user-attachments/assets/7f58a1af-ec62-44aa-819f-a93eed9e939e)
 
-![Image](https://github.com/user-attachments/assets/7b1c0fb0-3a26-4c04-8d51-197d08ddce49)
+![Image](https://github.com/user-attachments/assets/fbb2b0e0-e8f0-4e39-8f49-cdd2f9b79dd8)
 
-![Image](https://github.com/user-attachments/assets/5981bff0-23ce-4dd1-9af1-aa278f018390)
+![Image](https://github.com/user-attachments/assets/7d35468e-f796-4eb3-878d-a9243901e4cc)
 
-![Image](https://github.com/user-attachments/assets/393cf031-cf42-489e-9572-0327271bb8c3)
+![Image](https://github.com/user-attachments/assets/23f5d174-38e0-4de2-b38c-c2f5b7a6ad67)
 
-![Image](https://github.com/user-attachments/assets/f56736c2-e92d-44c3-8f19-3450f1b18978)
+![Image](https://github.com/user-attachments/assets/3a37e264-a406-4914-a646-73a410df2cc3)
 
-![Image](https://github.com/user-attachments/assets/5f561d15-64d3-4a27-b403-c6852c448605)
+![Image](https://github.com/user-attachments/assets/bb23836e-c7c8-48ba-8d2b-d5730af31244)
 
-![Image](https://github.com/user-attachments/assets/73bdbd1c-2aa7-4c50-8569-70683fa06069)
+![Image](https://github.com/user-attachments/assets/1ed9d310-89a4-4d58-a047-db004bc6337f)
