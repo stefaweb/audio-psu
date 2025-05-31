@@ -6,7 +6,7 @@ DC-DC High Voltage 50W Power Supply
 Input: 24V<br>
 Positive Output: +180V to +500V<br>
 Negative Output: -80V to -200V (no load, only for tube BIAS)<br>
-Output ripple at 350V 60mA: 180mV (less ripple with external caps or CRC)<br>
+Output ripple at 350V 60mA: 130mV (less ripple with external caps or CRC)<br>
 24V input consumption at 350V 60mA: 1A<br>
 Overcurent protection<br>
 Overtemperature protection<br>
