@@ -1,15 +1,24 @@
 # TUBE-HV-PSU-45W-1.0
 
-Under development.
+Published June 1st 2025
+
+The TUBE-HV-PSU PCB is a power supply for audio tubes that supports high-voltage power supply modules such as the HV-MODULE-UC3845, which you can find in another directory of my GitHub repository. It also supports the Chinese XIPA-650CHVCX module with some component modifications.
+
+In addition to the positive and negative (BIAS) high-voltage outputs, it also has a 12V auxiliary output.
+
+The Gerber files are available in the file TUBE-HV-PSU-Gerber-1.0.zip and the BOMs in the file TUBE-HV-PSU-BOM.html (to be opened with an Internet browser).
+
 
 Size: 110x130mm
 
-![TUBE-HV-PSU-3D](https://github.com/user-attachments/assets/10d5a0bd-21f0-45ab-84d9-48bad55a5cf3)
+![Image](https://github.com/user-attachments/assets/3a674af4-4954-47f5-a17a-716cae1737c1)
 
-![TUBE-HV-PSU-3D-VIEW](https://github.com/user-attachments/assets/7390b839-3375-4a3b-a72c-c9199b453075)
+![Image](https://github.com/user-attachments/assets/d726aad0-e6c0-4f62-a1f7-df28fe57b9a1)
 
-![TUBE-HV-PSU-FRONT](https://github.com/user-attachments/assets/cf4dfe13-0dea-47db-8a1e-16828057c549)
+![Image](https://github.com/user-attachments/assets/7a25e958-e43f-4b63-b65b-d49d9fd4e8b7)
 
-![TUBE-HV-PSU-BACK](https://github.com/user-attachments/assets/bd90383a-65a0-4285-b52b-582df25293bb)
+![Image](https://github.com/user-attachments/assets/3a4029c4-f66b-459c-91bf-aa4bf58a33eb)
 
-![Diagram](https://github.com/user-attachments/assets/711a6dff-7bcd-4829-905c-36259fbbc566)
+![Image](https://github.com/user-attachments/assets/6dcf99db-fda8-4b7d-9b4b-57cc6b93b77f)
+
+![Image](https://github.com/user-attachments/assets/ac6638d4-039b-45f4-8f6f-8924962406d5)
