@@ -24,9 +24,9 @@ Second prototype
 
 ![Image](https://github.com/user-attachments/assets/ccae1638-d08a-4ef0-a8ea-5009de023a35)
 
-![Image](https://github.com/user-attachments/assets/bf714b0f-5be7-439d-8f01-999b48b975e0)
+![Image](https://github.com/user-attachments/assets/e38e77d3-3907-4a6c-b92e-d0c8f7dd269a)
 
-![Image](https://github.com/user-attachments/assets/5dbb2d7d-dd58-4254-9391-4d0635cbf5f8)
+![Image](https://github.com/user-attachments/assets/bf714b0f-5be7-439d-8f01-999b48b975e0)
 
 ![Image](https://github.com/user-attachments/assets/4a44a425-8452-410d-ac2c-80bddc466867)
 
