@@ -32,4 +32,4 @@ Second prototype
 
 ![Image](https://github.com/user-attachments/assets/cacebbf5-6e89-45e1-ba0e-efd4792a2f15)
 
-![Image](https://github.com/user-attachments/assets/1ed9d310-89a4-4d58-a047-db004bc6337f)
+![Image](https://github.com/user-attachments/assets/cfbb67c0-1bb2-46d3-9f2b-b8d02492f98b)
