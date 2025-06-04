@@ -24,7 +24,7 @@ Second prototype
 
 ![Image](https://github.com/user-attachments/assets/ccae1638-d08a-4ef0-a8ea-5009de023a35)
 
-![Image](https://github.com/user-attachments/assets/f45b5c81-505a-40de-8bdd-143f027cc646)
+![Image](https://github.com/user-attachments/assets/bf714b0f-5be7-439d-8f01-999b48b975e0)
 
 ![Image](https://github.com/user-attachments/assets/5dbb2d7d-dd58-4254-9391-4d0635cbf5f8)
 
