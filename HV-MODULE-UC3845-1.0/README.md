@@ -12,8 +12,7 @@ Softstart (1 second by default but more by adding high value capacitor)<br>
 3A fuse protection<br>
 Possibility to generate a negative voltage on the main output by modifying a few components (inverter mode).<br>
 <br>
-<br>
-Output ripple at 350V 60mA: 130mV (less ripple with external capacitor or CRC, 45mV with TUBE-HV-PSU-45W power supply mother board)<br>
+Output ripple at 350V 60mA: 130mV (45mV with TUBE-HV-PSU-45W power supply mother board)<br>
 24V input consumption at 350V 60mA: 1A<br>
 
 Under development.
