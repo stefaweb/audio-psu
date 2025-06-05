@@ -6,14 +6,15 @@ DC-DC High Voltage 50W Power Supply
 Input: 24V<br>
 Positive Output: +180V to +500V<br>
 Negative Output: -80V to -200V (no load, only for tube BIAS)<br>
-Output ripple at 350V 60mA: 130mV (less ripple with external capacitor or CRC, 45mV with TUBE-HV-PSU-45W power supply mother board)<br>
-24V input consumption at 350V 60mA: 1A<br>
 Overcurent protection<br>
 Overtemperature protection<br>
 Softstart (1 second by default but more by adding high value capacitor)<br>
 3A fuse protection<br>
-Possibility to generate a negative voltage on the main output by modifying a few components (inverter mode).
+Possibility to generate a negative voltage on the main output by modifying a few components (inverter mode).<br>
 <br>
+<br>
+Output ripple at 350V 60mA: 130mV (less ripple with external capacitor or CRC, 45mV with TUBE-HV-PSU-45W power supply mother board)<br>
+24V input consumption at 350V 60mA: 1A<br>
 
 Under development.
 
