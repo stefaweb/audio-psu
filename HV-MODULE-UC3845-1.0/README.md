@@ -1,6 +1,6 @@
 # HV-MODULE-UC3845-1.0
 
-DC-DC High Voltage 50W Power Supply 
+<b>DC-DC High Voltage 50W Power Supply</b>
 
 <b>Specifications:</b><br>
 Input: 24V<br>
