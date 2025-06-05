@@ -14,6 +14,7 @@ Possibility to generate a negative voltage on the main output by modifying a few
 <br>
 Output ripple at 350V 60mA: 130mV (45mV with TUBE-HV-PSU-45W power supply mother board)<br>
 24V input consumption at 350V 60mA: 1A<br>
+231Vac input consumption at 350V 60mA: 26W<br>
 
 Under development.
 
