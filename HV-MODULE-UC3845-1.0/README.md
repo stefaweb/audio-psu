@@ -35,4 +35,5 @@ Second prototype
 
 ![Image](https://github.com/user-attachments/assets/1629d3d3-bbca-40c6-9e44-e4a9000f7c0f)
 
-![Image](https://github.com/user-attachments/assets/cfbb67c0-1bb2-46d3-9f2b-b8d02492f98b)
+![Image](https://github.com/user-attachments/assets/345bd53e-3d7d-4e32-aa8b-867f3e8e8bdb)
+
