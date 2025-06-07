@@ -2,6 +2,8 @@
 
 <b>DC-DC High Voltage 50W Power Supply</b>
 
+Under development.
+
 <b>Specifications:</b><br>
 Input: 24V<br>
 Positive Output: +180V to +500V<br>
@@ -17,8 +19,6 @@ Output ripple at 350V 60mA: 130mV (45mV with TUBE-HV-PSU-45W power supply mother
 24V input consumption at 350V 60mA: 1A<br>
 230V AC input consumption at 350V 60mA: 26W<br>
 Heatsink temperature: 40°C<br>
-
-Under development.
 
 Size: 80x50mm
 
