@@ -10,7 +10,7 @@ Positive Output: +180V to +500V<br>
 Negative Output: -80V to -200V (no load, only for tube BIAS)<br>
 Overcurent protection<br>
 Overtemperature protection<br>
-Softstart (1 second by default but more by adding high value capacitor)<br>
+Softstart (1 second by default but more by adding high value capacitor in C13')<br>
 3A fuse protection<br>
 Possibility to generate a negative voltage on the main output by modifying a few components (inverter mode).<br>
 <br>
