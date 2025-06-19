@@ -27,10 +27,6 @@ Final version 1.0
 
 ![Image](https://github.com/user-attachments/assets/ec0deb01-10ab-4aa5-b58b-62b88f06829c)
 
-![Image](https://github.com/user-attachments/assets/2dd6490f-e171-4e2c-8d4b-bf32988040db)
-
-![Image](https://github.com/user-attachments/assets/0fbbb4e8-d833-4c52-ab1a-b9090a618c93)
-
 ![Image](https://github.com/user-attachments/assets/3fd62816-a005-4ac8-bba2-e8ffd88b9f64)
 
 ![Image](https://github.com/user-attachments/assets/3077d6fc-383e-4b2e-80ed-06b26bfc32a3)
