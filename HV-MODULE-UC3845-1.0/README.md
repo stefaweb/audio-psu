@@ -2,7 +2,7 @@
 
 <b>DC-DC High Voltage 50W Power Supply</b>
 
-Under development.
+First upload June 19 2025.
 
 <b>Specifications:</b><br>
 Input: 24V<br>
@@ -22,8 +22,10 @@ Heatsink temperature: 40°C<br>
 
 Size: 80x50mm
 
-Second prototype
-![Image](https://github.com/user-attachments/assets/7f58a1af-ec62-44aa-819f-a93eed9e939e)
+Final version 1.0
+![Image](https://github.com/user-attachments/assets/e0b1c6f0-8d57-44c4-84dc-e6351ca3107e)
+
+![Image](https://github.com/user-attachments/assets/ec0deb01-10ab-4aa5-b58b-62b88f06829c)
 
 ![Image](https://github.com/user-attachments/assets/2dd6490f-e171-4e2c-8d4b-bf32988040db)
 
