@@ -1,5 +1,11 @@
 # audio-psu
 
+# HV-MODULE-UC3845-1.0
+
+DC-DC High Voltage 50W Power Supply for heating audio tubes.
+
+![Image](https://github.com/user-attachments/assets/e0b1c6f0-8d57-44c4-84dc-e6351ca3107e)
+
 # LVPS DC-AC Regulated Inverter EGS
 
 DC-AC 4-8V AC power supply for heating audio tubes.
