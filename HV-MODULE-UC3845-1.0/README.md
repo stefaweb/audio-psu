@@ -27,8 +27,6 @@ Final version 1.0
 
 ![Image](https://github.com/user-attachments/assets/ec0deb01-10ab-4aa5-b58b-62b88f06829c)
 
-![Image](https://github.com/user-attachments/assets/3fd62816-a005-4ac8-bba2-e8ffd88b9f64)
-
 ![Image](https://github.com/user-attachments/assets/3077d6fc-383e-4b2e-80ed-06b26bfc32a3)
 
 ![Image](https://github.com/user-attachments/assets/431c4f2a-660e-405d-ac1c-193ced041b9d)
