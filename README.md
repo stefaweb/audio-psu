@@ -6,6 +6,12 @@ DC-DC High Voltage 50W Power Supply for audio tubes.
 
 ![Image](https://github.com/user-attachments/assets/e0b1c6f0-8d57-44c4-84dc-e6351ca3107e)
 
+# TUBE-HV-PSU-45W-1.0
+
+Mother board for DC-DC High Voltage 50W Power Supply for audio tubes.
+
+![Image](https://github.com/user-attachments/assets/f4104bcf-fdd3-4035-9570-bf8ccfa73994)
+
 # LVPS DC-AC Regulated Inverter EGS
 
 DC-AC 4-8V AC power supply for heating audio tubes.
