@@ -11,11 +11,7 @@ The Gerber files are available in the file TUBE-HV-PSU-Gerber-1.0.zip and the BO
 
 Size: 110x130mm
 
-![Image](https://github.com/user-attachments/assets/3a674af4-4954-47f5-a17a-716cae1737c1)
-
-![Image](https://github.com/user-attachments/assets/d726aad0-e6c0-4f62-a1f7-df28fe57b9a1)
-
-![Image](https://github.com/user-attachments/assets/7a25e958-e43f-4b63-b65b-d49d9fd4e8b7)
+![Image](https://github.com/user-attachments/assets/f4104bcf-fdd3-4035-9570-bf8ccfa73994)
 
 ![Image](https://github.com/user-attachments/assets/3a4029c4-f66b-459c-91bf-aa4bf58a33eb)
 
