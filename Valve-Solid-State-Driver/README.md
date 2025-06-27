@@ -4,6 +4,8 @@ Under development.
 
 This board will allow you to drive power tubes like the 300B or the 2A3.
 
+The only components needed to make a single-ended valve amplifier are the solid-state driver board, the power tubes, the RK- resistors and capacitors, a power supply for the heater, and the output transformers.
+
 Here's what it should look like. You have a stereo input via two RCA jacks on one side. On the other side, two connectors for each channel, with one pad for B+, one for the tube grid, one for the negative BIAS (optional), and one for GND.
 
 A central connector under the PCB allows you to connect an external stereo potentiometer (optional).
