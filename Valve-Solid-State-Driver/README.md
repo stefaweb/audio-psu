@@ -12,7 +12,7 @@ A central connector under the PCB allows you to connect an external stereo poten
 
 The middle two-pad connector allows you to connect the transformer output to create a negative feedback (optional).
 
-There are also two jumpers on the board: one to enable or disable the BIAS, and another to bypass the filtering capacity at the circuit's input if you don't need DC protection.
+There are also two jumpers on the board: one to enable or disable the negative BIAS, and another to bypass the filtering capacity at the circuit's input if you don't need DC protection.
 
 Size: 55x90mm
 
