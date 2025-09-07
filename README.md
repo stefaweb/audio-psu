@@ -1,10 +1,10 @@
 # audio-psu
 
-# HV-MODULE-UC3845-1.0
+# HV-MODULE-UC3845-1.1
 
 DC-DC High Voltage 50W Power Supply for audio tubes.
 
-![Image](https://github.com/user-attachments/assets/e0b1c6f0-8d57-44c4-84dc-e6351ca3107e)
+![Image](https://github.com/user-attachments/assets/3c790a93-adfa-4b33-b58d-9da7d7ee91d8)
 
 # TUBE-HV-PSU-45W-1.0
 
