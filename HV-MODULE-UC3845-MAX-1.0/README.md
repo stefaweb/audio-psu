@@ -6,7 +6,7 @@ Under development.
 
 <b>Specifications:</b><br>
 Input: 24V<br>
-Positive Output: +180V to +480V<br>
+Positive Output: +120V to +480V<br>
 Negative Output: -18V to -90V (no load, only for tube BIAS)<br>
 Overcurent protection<br>
 Overtemperature protection<br>
