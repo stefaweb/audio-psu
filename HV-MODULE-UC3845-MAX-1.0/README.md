@@ -16,15 +16,11 @@ Softstart (1 second by default but more by adding high value capacitor in C13')<
 
 Size: 100x50mm
 
+![Image](https://github.com/user-attachments/assets/6ea072d2-2ec6-49e2-809f-423321628f0e)
 
-![Image](https://github.com/user-attachments/assets/211c8fec-3e6f-4ff0-ad37-7f3bd0080ba2)
+![Image](https://github.com/user-attachments/assets/c8f0f6be-0eb8-41b9-a0c1-b6cf0ae03e55)
 
-![Image](https://github.com/user-attachments/assets/8b137102-9926-4264-ac1b-cfc2046d4569)
+![Image](https://github.com/user-attachments/assets/7f917e93-465c-41f2-8174-f1619458061d)
 
-![Image](https://github.com/user-attachments/assets/bcb6b8e1-204b-43f5-8d4e-6cdfe0cc7e57)
-
-![Image](https://github.com/user-attachments/assets/3fa10370-3305-4584-8a92-b20d29d7759c)
-
-![Image](https://github.com/user-attachments/assets/6f832a9f-015d-4b5d-9e98-8ba5919f2a31)
-
+![Image](https://github.com/user-attachments/assets/3821eb8c-8d35-4c72-9db4-9cc6afed9e69)
 
