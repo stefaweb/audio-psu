@@ -10,9 +10,16 @@ Positive Output: +120V to +480V<br>
 Negative Output: -18V to -90V (no load, only for tube BIAS)<br>
 Overcurent protection<br>
 Overtemperature protection<br>
-Softstart (1 second by default but more by adding high value capacitor in C13')<br>
+Softstart (1 second by default but more by adding high value capacitor in C13' (22uF = 50')<br>
 5A fuse protection<br>
 <br>
+
+Test condition: 
+
+Input: 24V
+Output: 440V 120mA
+Power: 2.5A under 24V
+Consumption: 58W
 
 Size: 100x50mm
 
