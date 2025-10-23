@@ -16,10 +16,10 @@ Softstart (1 second by default but more by adding high value capacitor in C13' (
 
 Test condition: 
 
-Input: 24V
-Output: 440V 120mA
-Power: 2.5A under 24V
-Consumption: 58W
+Input: 24V<br>
+Output: 440V 120mA<br>
+Power: 2.5A under 24V<br>
+Consumption: 58W<br>
 
 Size: 100x50mm
 
