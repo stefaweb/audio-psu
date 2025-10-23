@@ -20,6 +20,7 @@ Input: 24V<br>
 Output: 440V 120mA<br>
 Power: 2.5A under 24V<br>
 Consumption: 58W<br>
+Heatsink: 100x50x15mm<br>
 
 Size: 100x50mm
 
