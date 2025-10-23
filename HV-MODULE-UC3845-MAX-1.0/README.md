@@ -1,6 +1,6 @@
 # HV-MODULE-UC3845-MAX-1.0
 
-<b>DC-DC High Voltage Power Supply</b>
+<b>DC-DC High Voltage 60W Power Supply</b>
 
 Under development.
 
