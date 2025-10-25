@@ -2,7 +2,7 @@
 
 <b>DC-DC High Voltage 50W Power Supply</b>
 
-Version 1.1 released on September 7, 2025.
+Version 1.1.1 released on October 25, 2025.
 
 Read the CHANGELOG.md file to see the changes.
 
@@ -35,4 +35,4 @@ Size: 80x50mm
 
 ![Image](https://github.com/user-attachments/assets/bd1430e2-edf1-4e88-8a06-a15ea353fd67)
 
-![Image](https://github.com/user-attachments/assets/d8584116-02ff-480d-9456-b2bc6bbb2f71)
+![Image](https://github.com/user-attachments/assets/0ff56008-9ab8-4dc5-b8fb-4cf07c3ff2a3)
