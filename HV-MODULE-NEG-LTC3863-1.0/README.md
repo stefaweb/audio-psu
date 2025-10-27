@@ -6,7 +6,10 @@ Under development.
 
 <b>Specifications:</b><br>
 Input: 24V<br>
-Positive Output: -10V to -95V<br>
+Negative Output: -10V to -95V<br>
+Two independant output<br>
+Input for cathode<br>
+Output for external probe<br>
 Overcurent protection<br>
 Overtemperature protection<br>
 Softstart<br>
