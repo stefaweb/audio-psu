@@ -1,4 +1,4 @@
-# HV-PSU-LTC3863-1.0
+# HV-MODULE-NEG-LTC3863-1.0
 
 <b>High Voltage DC-DC Power Suppl for Negative Gridy</b>
 
