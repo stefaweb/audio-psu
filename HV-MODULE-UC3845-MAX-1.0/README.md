@@ -15,7 +15,7 @@ Softstart (1 second by default but more by adding high value capacitor in C13' (
 
 <b>Test condition:</b><br>
 Input: 24V<br>
-Output: 440V 120mA<br>
+Output: 450V 120mA<br>
 Power: 2.5A under 24V<br>
 Consumption: 58W<br>
 Heatsink: 100x50x15mm<br>
