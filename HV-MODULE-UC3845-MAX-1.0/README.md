@@ -7,7 +7,6 @@ Under development.
 <b>Specifications:</b><br>
 Input: 24V<br>
 Positive Output: +120V to +480V<br>
-Negative Output: -18V to -90V (no load, only for tube BIAS)<br>
 Overcurent protection<br>
 Overtemperature protection<br>
 Softstart (1 second by default but more by adding high value capacitor in C13' (22uF = 50')<br>
@@ -23,10 +22,10 @@ Heatsink: 100x50x15mm<br>
 
 Size: 100x50mm
 
-![Image](https://github.com/user-attachments/assets/6ea072d2-2ec6-49e2-809f-423321628f0e)
+![Image](https://github.com/user-attachments/assets/84b8358f-db19-4bb2-a1ef-024b840345dc)
 
-![Image](https://github.com/user-attachments/assets/ba387c19-2950-4764-aa71-64be64f6f627)
+![Image](https://github.com/user-attachments/assets/1a12ca17-9c03-42a8-a62a-36f5e7fe09b2)
 
-![Image](https://github.com/user-attachments/assets/63c81cd9-dbb1-4c7e-9f49-78d11ecd68d6)
+![Image](https://github.com/user-attachments/assets/cbf8eea0-bb43-43e1-b728-a607807f0880)
 
-![Image](https://github.com/user-attachments/assets/5a7a34aa-d70f-4488-bfec-c5a278b9c9a3)
+![Image](https://github.com/user-attachments/assets/15af5006-4497-4560-a0df-1c8f9fffca79)
