@@ -1,16 +1,5 @@
 # HV-MODULE-UC3845-MAX-1.0
 
-<b>DC-DC High Voltage 60W Power Supply</b>
-
-Under development.
-
-<b>Specifications:</b><br>
-Input: 24V<br>
-Positive Output: +120V to +480V<br>
-Overcurent protection<br>
-Overtemperature protection<br>
-Softstart (1 second by default but more by adding high value capacitor in C13' (22uF = 50')<br>
-5A fuse protection<br>
 <br>
 
 <b>Test condition:</b><br>
