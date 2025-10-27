@@ -13,4 +13,4 @@ Output for external probe<br>
 Overcurent protection<br>
 Overtemperature protection<br>
 Softstart<br>
-Inverting polarity diode protection<br>
+Inverting polarity diode protection on power input<br>
