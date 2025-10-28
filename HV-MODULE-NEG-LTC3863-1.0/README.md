@@ -14,3 +14,12 @@ Overcurent protection<br>
 Overtemperature protection<br>
 Softstart<br>
 Inverting polarity diode protection on power input<br>
+
+![Image](https://github.com/user-attachments/assets/1feb1eb0-4e45-4c53-96fa-02e3baabb759)
+
+![Image](https://github.com/user-attachments/assets/59e33855-69cf-4383-a09f-f238ad038c76)
+
+![Image](https://github.com/user-attachments/assets/2be2a821-f647-4a95-bbac-344760a765ed)
+
+![Image](https://github.com/user-attachments/assets/70dd9f39-8464-436f-a4cc-03287ad001c0)
+
