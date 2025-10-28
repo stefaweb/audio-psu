@@ -1,6 +1,6 @@
 # HV-MODULE-NEG-LTC3863-1.0
 
-<b>High Voltage DC-DC Power Suppl for Negative Gridy</b>
+<b>High Voltage DC-DC Power Supply for Negative Grid Voltage</b>
 
 Under development.
 
