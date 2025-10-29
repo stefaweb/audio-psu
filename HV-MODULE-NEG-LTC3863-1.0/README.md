@@ -15,11 +15,10 @@ Overtemperature protection<br>
 Softstart<br>
 Inverting polarity diode protection on power input<br>
 
-![Image](https://github.com/user-attachments/assets/1feb1eb0-4e45-4c53-96fa-02e3baabb759)
+![Image](https://github.com/user-attachments/assets/c1025c5e-45b2-46fc-9642-7c7e01602491)
 
-![Image](https://github.com/user-attachments/assets/59e33855-69cf-4383-a09f-f238ad038c76)
+![Image](https://github.com/user-attachments/assets/f3e12f9f-cf91-4c18-ad2b-c900335ef5c2)
 
-![Image](https://github.com/user-attachments/assets/2be2a821-f647-4a95-bbac-344760a765ed)
+![Image](https://github.com/user-attachments/assets/ff322c8c-01ee-423e-8c56-829545c8a6a5)
 
-![Image](https://github.com/user-attachments/assets/bde69706-2dae-4b7b-a854-554d6fde83d6)
-
+![Image](https://github.com/user-attachments/assets/b66c598f-d12b-437b-9828-4e433e6fb21c)
