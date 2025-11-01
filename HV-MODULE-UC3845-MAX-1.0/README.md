@@ -1,9 +1,7 @@
 # HV-MODULE-UC3845-MAX-1.0
 
 <br>
-HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1 
-
-
+<b>HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1</b>
 
 - Support power up to 65W (need an external 75W AC-DC power supply).
 - New voltage ouput range: 120-485V
