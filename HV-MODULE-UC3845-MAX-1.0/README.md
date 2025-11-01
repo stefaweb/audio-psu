@@ -1,8 +1,8 @@
 # HV-MODULE-UC3845-MAX-1.0
 
 <br>
-HV-PSU-UC3845-MAX version compred to first HV-PSU-UC3845 1.1 
-
+HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1 
+<br>
 - Support power up to 65W (need an external 75W AC-DC power supply).
 - New voltage ouput range: 120-485V
 - NewPCB  size 50 x 100 mm.
@@ -16,8 +16,6 @@ HV-PSU-UC3845-MAX version compred to first HV-PSU-UC3845 1.1
 - The GND and B+ signals are duplicated on the output connector.
 - The diode footprint now supports DO-221 and a TO-220.
 - New mother board for power up to 45W.
-
-
 
 <b>Test condition:</b><br>
 Input: 24V<br>
