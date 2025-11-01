@@ -17,7 +17,7 @@
 - The diode footprint now supports DO-221 and a TO-220.
 - New mother board for power up to 45W.
 
-<b>Test condition:</b><br>
+<b>Lab test condition:</b><br>
 Input: 24V<br>
 Output: 450V 120mA<br>
 Power: 2.5A under 24V<br>
