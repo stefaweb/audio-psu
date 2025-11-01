@@ -4,6 +4,7 @@
 HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1 
 
 
+
 - Support power up to 65W (need an external 75W AC-DC power supply).
 - New voltage ouput range: 120-485V
 - NewPCB  size 50 x 100 mm.
