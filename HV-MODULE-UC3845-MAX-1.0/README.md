@@ -11,12 +11,12 @@
 - C1 has moved to footprint 1206.
 - R1 has moved to footprint 1206.
 - Removed negative parts and specific dedicated footprint
-- New output LCL filter with one electronic capacitor footprint before the coil and two footprints after the coil.
-- Possibility to use an TH or SMD coil.
+- New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
 - Footprint for output filter electronics capacitor now accept D12.5.
+- Possibility to use an TH or SMD inductor.
 - Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink)
 - The GND and B+ signals are duplicated on the output connector.
-- The diode footprint now supports DO-201 and a TO-220.
+- The D1 diode footprint now supports DO-201 and TO-220.
 - New mother board for power it up to 45W.
 
 <b>Lab test condition:</b><br>
