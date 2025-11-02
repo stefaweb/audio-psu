@@ -4,7 +4,7 @@
 <b>HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1</b>
 
 - Support power up to 65W (need an external 75W AC-DC power supply).
-- New voltage ouput range: 120-485V
+- New DC voltage ouput range: 120-485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet IRF1010EZ (produce less heat, cheaper than IRF3205Z)
 - New optimized component values ​​around the UC3845A (C1, C2, C5, R1, R5).
