@@ -34,4 +34,4 @@ Size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/b4017b69-fddc-4f6b-8990-04c959608327)
 
-![Image](https://github.com/user-attachments/assets/b220ef85-5b95-4072-974c-80724e3f92b7)
+![Image](https://github.com/user-attachments/assets/57c1600d-cca7-41f7-b4ef-166a66a499b1)
