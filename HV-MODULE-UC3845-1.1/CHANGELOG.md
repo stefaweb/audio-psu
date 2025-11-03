@@ -2,8 +2,7 @@
 
 Version [1.1.1] (25-10-2025)
 
-- R2 now 10R instead of 1K.
-- Q1 now IRF1010EZ instead of IRF3205.
+- Q1 now IRF1010EZ instead of IRF3205Z.
 - R5 now 0R040 instead of 0R025.
 - Updated fabrication files and schematic.
 
