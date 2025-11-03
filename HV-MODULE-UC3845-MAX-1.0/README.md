@@ -10,7 +10,7 @@
 - R1 has moved to footprint 1206.
 - Added R12 for Vref HF filtering.
 - Changed parts for C1 and C2 (COG 1%)
-- Changed value and parts for R3 (Frequency now 50KHz)
+- Changed value and parts for R3 (Frequency now 50KHz instead of 51KHz)
 - Removed negative parts and specific dedicated footprint
 - New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
 - Footprint for output filter electronics capacitor now accept D12.5.
