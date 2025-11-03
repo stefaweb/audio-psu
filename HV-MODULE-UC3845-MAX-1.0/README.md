@@ -7,7 +7,7 @@
 - New DC voltage ouput range: 120-485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet IRF1010EZ (produce less heat, cheaper than IRF3205Z)
-- R1 has moved to footprint 1206.
+- R1 has moved to footprint 1206 and new parts for low ppm.
 - Added R12 for Vref HF filtering.
 - Changed parts for C1 and C2 (COG 1%)
 - Changed value and parts for R3 (Frequency now 50KHz instead of 51KHz)
