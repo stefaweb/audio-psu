@@ -6,7 +6,7 @@
 - Support power up to 65W (need an external 75W AC-DC power supply).
 - New DC voltage ouput range: 120-485V
 - New PCB size: 50 x 100 mm.
-- New default Mosfet IRF1010EZ (produce less heat, cheaper than IRF3205Z)
+- New default Mosfet xxxx (Vds > 150V)
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
 - Changed parts for C1 and C2 (1nF COG 1%)
