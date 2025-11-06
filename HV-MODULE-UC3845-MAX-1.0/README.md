@@ -28,7 +28,7 @@ Power: 2.5A under 24V<br>
 Consumption: 58W<br>
 Heatsink: 100x50x15mm<br>
 
-Size: 100x50mm
+PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/4013e5c9-fdbd-4de7-980b-e373365278c5)
 
