@@ -6,17 +6,17 @@
 - Support power up to 65W (need an external 75W AC-DC power supply).
 - New DC voltage ouput range: 120-485V
 - New PCB size: 50 x 100 mm.
-- New default Mosfet xxxx (Vds > 150V, Qg < 70 nC, Ciss < 1800 pF, Rds(on) < 150 mΩ @ Vgs=10 V)
-- Added a snubber (C15, R14 and D2)
+- New default Mosfet xxxx (Vds > 150V, Qg < 70 nC, Ciss < 1800 pF, Rds(on) < 150 mΩ @ Vgs=10 V).
+- Added a snubber (C15, R11 and D2).
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
-- Changed parts for C1 and C2 (1nF COG 1%)
-- Changed R3 value and parts (Frequency now 50KHz instead of 51KHz)
+- Changed parts for C1 and C2 (1nF COG 1%).
+- Changed R3 value and parts (Frequency now 50KHz instead of 51KHz).
 - Removed negative parts and specific dedicated footprint.
 - New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
 - Footprint for output filter electronics capacitors now accept D12.5.
 - Possibility to use an TH or SMD inductor.
-- Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink)
+- Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
 - The D1 diode footprint now supports DO-201 and TO-220.
 - New mother board for power it up to 45W.
