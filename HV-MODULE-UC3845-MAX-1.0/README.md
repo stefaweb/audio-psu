@@ -16,7 +16,7 @@
 - Removed negative parts form schematic and PCB.
 - New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
 - Footprint for output filter electronics capacitors now accept D12.5.
-- Possibility to use an TH or SMD inductor.
+- Possibility to use an TH or SMD inductor for L1.
 - Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
 - The D1 diode footprint now supports DO-201 and TO-220.
