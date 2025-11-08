@@ -20,6 +20,7 @@
 - Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
 - The D1 diode footprint now supports DO-201 and TO-220.
+- Integrated fuse now 5A.
 - New mother board for power it up to 45W.
 
 <b>Lab test condition:</b><br>
