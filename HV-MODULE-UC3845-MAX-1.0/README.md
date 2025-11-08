@@ -1,5 +1,9 @@
 # HV-MODULE-UC3845-MAX-1.0
 
+High Voltage DC-DC Max Power Supply
+
+Under development.
+
 <br>
 <b>HV-PSU-UC3845-MAX version compared to first HV-PSU-UC3845 1.1</b>
 
