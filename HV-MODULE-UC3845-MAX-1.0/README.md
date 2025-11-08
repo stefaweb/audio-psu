@@ -14,8 +14,8 @@
 - Changed R3 value (Frequency now 50KHz instead of 51KHz).
 - Changed R21, R22, R23 and R28 values.
 - Removed negative parts form schematic and PCB.
-- New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
-- Footprint for output filter electronics capacitors now accept D12.5.
+- New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
+- Footprint for output filter electrolytic capacitor now accept D12.5.
 - Possibility to use an TH or SMD inductor for L1.
 - Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
