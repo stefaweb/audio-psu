@@ -13,7 +13,7 @@
 - Changed parts for C1 and C2 (1nF COG 1%).
 - Changed R3 value and parts (Frequency now 50KHz instead of 51KHz).
 - Changed R21, R22, R23 and R28 values.
-- Removed negative parts and specific dedicated footprint.
+- Removed negative parts form schematic and PCB.
 - New output CLC filter with one electronic capacitor footprint before the coil and two footprints after the coil.
 - Footprint for output filter electronics capacitors now accept D12.5.
 - Possibility to use an TH or SMD inductor.
