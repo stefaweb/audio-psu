@@ -43,4 +43,4 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/b4017b69-fddc-4f6b-8990-04c959608327)
 
-![Image](https://github.com/user-attachments/assets/05b69a26-7f62-4bc4-ae90-d55410f6fe6b)
+![Image](https://github.com/user-attachments/assets/c12b5294-1991-4096-97e2-e0b83394417b)
