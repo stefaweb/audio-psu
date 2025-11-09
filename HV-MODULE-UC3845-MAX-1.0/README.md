@@ -35,11 +35,11 @@ Consumption: 58W<br>
 Heatsink: 100x50x15mm<br>
 
 PCB size: 100x50mm
-![Image](https://github.com/user-attachments/assets/1bf8086c-ff88-4b36-a7b9-42be59c1bd74)
+![Image](https://github.com/user-attachments/assets/41839fb8-1d0e-4321-a148-2fafe1b4099e)
 
-![Image](https://github.com/user-attachments/assets/a3aa0362-331f-4d83-8799-a9ee5cf1aa22)
+![Image](https://github.com/user-attachments/assets/1470607f-7049-417d-a500-253ae3f6e140)
 
-![Image](https://github.com/user-attachments/assets/829920a6-592e-4119-b97a-45d743dcb5b3)
+![Image](https://github.com/user-attachments/assets/f0c7e1e7-22f4-472e-93f0-cefb19ff5588)
 
 ![Image](https://github.com/user-attachments/assets/b4017b69-fddc-4f6b-8990-04c959608327)
 
