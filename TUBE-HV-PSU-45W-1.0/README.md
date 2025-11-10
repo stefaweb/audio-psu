@@ -17,4 +17,4 @@ Size: 110x130mm
 
 ![Image](https://github.com/user-attachments/assets/51380f67-c0c8-4570-be6b-912d33ef8486)
 
-![Image](https://github.com/user-attachments/assets/38fc1387-95dd-4658-bf93-4429d7ad6137)
+![Image](https://github.com/user-attachments/assets/c7790a14-c977-45db-882f-c5f093acfaf8)
