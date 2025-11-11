@@ -17,8 +17,8 @@ Inverting polarity diode protection on power input<br>
 
 ![Image](https://github.com/user-attachments/assets/c1025c5e-45b2-46fc-9642-7c7e01602491)
 
-![Image](https://github.com/user-attachments/assets/f3e12f9f-cf91-4c18-ad2b-c900335ef5c2)
+![Image](https://github.com/user-attachments/assets/517d83ed-feb2-42fe-b109-563f6e4abeed)
 
-![Image](https://github.com/user-attachments/assets/ff322c8c-01ee-423e-8c56-829545c8a6a5)
+![Image](https://github.com/user-attachments/assets/acc90187-8b26-4dee-b95e-b97d0d22c563)
 
-![Image](https://github.com/user-attachments/assets/b66c598f-d12b-437b-9828-4e433e6fb21c)
+![Image](https://github.com/user-attachments/assets/a1ae3bce-b970-4e66-8477-078ccb3a856a)
