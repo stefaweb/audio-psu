@@ -1,4 +1,4 @@
-# VARIOUS COMPONENTS FOR THE RADIOELEC DUOVAC TUBE TESTER
+# COMPONENTS FOR THE RADIOELEC DUOVAC TUBE TESTER
 
 <img width="2340" height="1750" alt="Image" src="https://github.com/user-attachments/assets/d3d18d92-fb75-46ca-b4d1-7187a9396ebd" />
 
