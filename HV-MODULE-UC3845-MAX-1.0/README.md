@@ -17,6 +17,7 @@ Under development.
 - Changed parts for C1 and C2 (1nF COG 1%).
 - Changed R3 value (Frequency now 50KHz instead of 51KHz).
 - Changed R21, R22, R23 and R28 values.
+- Removed TH fuse and replaced it with a SMD fuse on the back.
 - Removed negative circuit from schematic and PCB.
 - New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
 - Footprint for output filter electrolytic capacitors now accept D12.5.
@@ -35,11 +36,11 @@ Consumption: 58W<br>
 Heatsink: 100x50x15mm<br>
 
 PCB size: 100x50mm
-![Image](https://github.com/user-attachments/assets/41839fb8-1d0e-4321-a148-2fafe1b4099e)
+![Image](https://github.com/user-attachments/assets/81f605e9-1b9b-4230-8332-19b0aa078913)
 
-![Image](https://github.com/user-attachments/assets/1470607f-7049-417d-a500-253ae3f6e140)
+![Image](https://github.com/user-attachments/assets/7c2ec124-28e7-4ab8-8709-78c3f4e05c80)
 
-![Image](https://github.com/user-attachments/assets/f0c7e1e7-22f4-472e-93f0-cefb19ff5588)
+![Image](https://github.com/user-attachments/assets/cefa2ec4-6f89-4376-bd55-79bddd73131d)
 
 ![Image](https://github.com/user-attachments/assets/b4017b69-fddc-4f6b-8990-04c959608327)
 
