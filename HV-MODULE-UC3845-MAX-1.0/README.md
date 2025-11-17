@@ -11,7 +11,7 @@ Under development.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet XXX (Vds ≥ 150V, Qg ≤ 70 nC, Ciss ≤ 2000 pF, Rds(on) ≤ 150 mΩ @ Vgs=10 V).
-- Added 2 snubbers circuit (C15/R11/D2, and R12/C16).
+- Added 2 snubber circuits (C15/R11/D2, and R12/C16).
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
 - Changed parts for C1 and C2 (1nF COG 1%).
