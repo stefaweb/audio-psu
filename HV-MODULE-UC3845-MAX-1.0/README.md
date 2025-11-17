@@ -33,7 +33,6 @@ Input: 24V<br>
 Output: 450V 120mA<br>
 Power: 2.5A under 24V<br>
 Consumption: 58W<br>
-Heatsink: 100x50x15mm<br>
 
 PCB size: 100x50mm
 ![Image](https://github.com/user-attachments/assets/81f605e9-1b9b-4230-8332-19b0aa078913)
