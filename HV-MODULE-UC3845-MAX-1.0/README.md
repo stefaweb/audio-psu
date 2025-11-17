@@ -38,10 +38,10 @@ Heatsink: 100x50x15mm<br>
 PCB size: 100x50mm
 ![Image](https://github.com/user-attachments/assets/81f605e9-1b9b-4230-8332-19b0aa078913)
 
-![Image](https://github.com/user-attachments/assets/7c2ec124-28e7-4ab8-8709-78c3f4e05c80)
+![Image](https://github.com/user-attachments/assets/ebdb1ea8-8efb-4608-be4c-5c9b0ff20326)
 
-![Image](https://github.com/user-attachments/assets/cefa2ec4-6f89-4376-bd55-79bddd73131d)
+![Image](https://github.com/user-attachments/assets/4a61168c-0173-483d-9abc-b7a734ea829d)
 
 ![Image](https://github.com/user-attachments/assets/cd4c7495-e20c-4a14-a60e-666cd8dbbad0)
 
-![Image](https://github.com/user-attachments/assets/c12b5294-1991-4096-97e2-e0b83394417b)
+![Image](https://github.com/user-attachments/assets/2fe33348-63d8-46c0-b4e0-b1f552507ec0)
