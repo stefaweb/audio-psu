@@ -10,7 +10,7 @@ Under development.
 - Support power up to 65W.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
-- New default Mosfet XXX (Vds ≥ 150V, Qg ≤ 70 nC, Ciss ≤ 2000 pF, Rds(on) ≤ 150 mΩ @ Vgs=10 V).
+- New default Mosfet IRFB4615.
 - Added 2 snubber circuits (C15/R11/D2, and R12/C16).
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
@@ -48,6 +48,6 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/b7500920-5436-47d5-992e-1489fa7c84b1)
 
-![Image](https://github.com/user-attachments/assets/25dd2c42-4372-43b7-8333-8e4d31f87df6)
+![Image](https://github.com/user-attachments/assets/7ddebdcd-dc64-41a1-9ddc-03e65da9e8e4)
 
 
