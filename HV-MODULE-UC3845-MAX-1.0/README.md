@@ -50,6 +50,6 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/7ddebdcd-dc64-41a1-9ddc-03e65da9e8e4)
 
-Vin = 24V 1.4A - Vout = 450V / 64mA
+Vin = 24V 1.4A - Vout = 450V / 64mA - Vout ripple = 73mV
 
 ![Image](https://github.com/user-attachments/assets/ebacbdf8-1c76-46fd-aed0-8198899cc31d)
