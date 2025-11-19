@@ -10,7 +10,7 @@ Under development.
 - Support power up to 65W.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
-- New default Mosfet IRFB4615.
+- New default Mosfet IRFB4615PBF (replacement: IRF3415PBF or IPP200N15N3GXKSA1 or IRFB4019PBF).
 - Changed U3 OPA810 to SOT-23-5 footprint to reduce cost.
 - Added 2 snubber circuits (C15/R11/D2, and R12/C16).
 - R1 has moved to footprint 1206.
