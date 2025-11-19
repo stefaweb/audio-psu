@@ -28,6 +28,8 @@ Under development.
 - D1 footprint now accept DO-201AD or TO-220 diode.
 - Integrated fuse now 5A.
 - New mother board for power it up to 45W.
+- New UC3845 LTSpice Simulation 1.1
+  
 <br>
 <b>Lab test condition:</b><br>
 Input: 24V<br>
