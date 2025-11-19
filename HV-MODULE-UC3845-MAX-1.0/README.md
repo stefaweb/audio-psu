@@ -11,6 +11,7 @@ Under development.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet IRFB4615.
+- Changed U3 OPA810 to SOT-23-5 footprint to reduce cost.
 - Added 2 snubber circuits (C15/R11/D2, and R12/C16).
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
@@ -38,9 +39,9 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/81f605e9-1b9b-4230-8332-19b0aa078913)
 
-![Image](https://github.com/user-attachments/assets/ebdb1ea8-8efb-4608-be4c-5c9b0ff20326)
+![Image](https://github.com/user-attachments/assets/4da646b7-37e7-495e-9125-02c772db97ef)
 
-![Image](https://github.com/user-attachments/assets/8e3a4efd-7392-4d6f-922a-f7bb6cc29840)
+![Image](https://github.com/user-attachments/assets/dd385116-074a-4f74-a2a3-d982852d0467)
 
 ![Image](https://github.com/user-attachments/assets/cd4c7495-e20c-4a14-a60e-666cd8dbbad0)
 
