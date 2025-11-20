@@ -10,7 +10,7 @@ Under development.
 - Support power up to 65W.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
-- New default Mosfet IRFB4615PBF (replacement: IRF3415PBF or IPP200N15N3GXKSA1 or IRFB4019PBF).
+- New default Mosfet IRFB4615PBF (replacement: IRF3415PBF or IPP200N15N3GXKSA1 or IRFB4019PBF or TK32E12N1,S1X).
 - Changed U3 OPA810 to SOT-23-5 footprint to reduce cost.
 - Added a snubber circuit (C15/R11/D2).
 - Added a damping network for Q1 (R12/C16).
@@ -54,6 +54,6 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/44671733-e2c9-4d0d-a030-9885334d8957)
 
-Vin = 24V 1.4A - Vout = 450V / 64mA - Vout ripple = 73mV
+IRFB4615 - Vin = 24V 1.4A - Vout = 450V / 64mA - Vout ripple = 73mV
 
 ![Image](https://github.com/user-attachments/assets/ebacbdf8-1c76-46fd-aed0-8198899cc31d)
