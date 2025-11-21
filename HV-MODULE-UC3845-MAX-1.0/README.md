@@ -11,6 +11,7 @@ Under development.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet IRFB4615PBF (replacement: IRF3415PBF or IPP200N15N3GXKSA1 or IRFB4019PBF or TK32E12N1,S1X).
+- New default 12R value for R1.
 - Changed OPA810 (u3) to SOT-23-5 version to reduce cost.
 - Added a snubber circuit to reduce VdsPeak (C15/R11/D2).
 - Added a damping network for Q1 (R12/C16) to reduce HF.
@@ -52,7 +53,7 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/39a34bb5-dae2-489e-9486-c5c8b203a7f7)
 
-![Image](https://github.com/user-attachments/assets/44671733-e2c9-4d0d-a030-9885334d8957)
+![Image](https://github.com/user-attachments/assets/a4b6d4aa-601b-4542-aca7-01d6ab7769e8)
 
 IRFB4615 drain output - Vin = 24V 1.4A - Vout = 450V / 64mA - Vout ripple = 73mV
 
