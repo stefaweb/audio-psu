@@ -26,12 +26,11 @@ Under development.
 - New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
 - Footprint for output filter electrolytic capacitors now accept D12.5.
 - Possibility to use an TH or SMD inductor for L1.
-- Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
+- Q1 Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
 - D1 footprint now accept DO-201AD or TO-220 diode.
-- Integrated fuse now 5A.
 - New mother board for power it up to 45W.
-- New UC3845 LTSpice Simulation 1.1
+- New UC3845A LTSpice Simulation 1.1
   
 <br>
 <b>Lab test condition:</b><br>
