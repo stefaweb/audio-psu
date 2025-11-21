@@ -18,8 +18,8 @@ Under development.
 - Added R12 0.1uF for Vref HF filtering.
 - Changed parts for C1 and C2 (1nF COG 1%).
 - Changed R3 value (Frequency now 50KHz instead of 51KHz).
-- Optimized value for R21, R22, R23 and R28.
-- Removed TH fuse and replaced it with a SMD 5A Fast fuse on the back.
+- Optimized value or parts numbers for R21, R22, R23 and R28.
+- Removed TH fuse and replaced it with a SMD 5A fast fuse on the back.
 - Removed negative circuit from schematic and PCB.
 - New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
 - Footprint for output filter electrolytic capacitors now accept D12.5.
