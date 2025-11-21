@@ -18,7 +18,7 @@ Under development.
 - R1 has moved to footprint 1206.
 - Added R12 (0.1uF) for Vref HF filtering.
 - Changed parts number for C1 and C2 (1nF COG 1%).
-- Changed R3 517K4) value (Frequency now 50KHz instead of 51KHz).
+- Changed R3 (17K4) value (Frequency now 50KHz instead of 51KHz).
 - Optimized value or parts numbers for R21, R22, R23 and R28.
 - Removed TH fuse and replaced it with a SMD 5A fast fuse on the back.
 - Removed negative circuit from schematic and PCB.
