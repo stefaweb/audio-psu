@@ -22,6 +22,7 @@ Under development.
 - Optimized value or parts numbers for R21, R22, R23 and R28.
 - Removed TH fuse and replaced it with a SMD 5A fast fuse on the back.
 - Removed negative circuit from schematic and PCB.
+- Removed unused test footprint.
 - New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
 - Footprint for output filter electrolytic capacitors now accept D12.5.
 - Possibility to use an TH or SMD inductor for L1.
