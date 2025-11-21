@@ -11,9 +11,9 @@ Under development.
 - New DC voltage ouput range: +120V to +485V
 - New PCB size: 50 x 100 mm.
 - New default Mosfet IRFB4615PBF (replacement: IRF3415PBF or IPP200N15N3GXKSA1 or IRFB4019PBF or TK32E12N1,S1X).
-- Changed U3 OPA810 to SOT-23-5 footprint to reduce cost.
-- Added a snubber circuit (C15/R11/D2).
-- Added a damping network for Q1 (R12/C16).
+- Changed OPA810 (u3) to SOT-23-5 version to reduce cost.
+- Added a snubber circuit to reduce VdsPeak (C15/R11/D2).
+- Added a damping network for Q1 (R12/C16) to reduce HF.
 - R1 has moved to footprint 1206.
 - Added R12 0.1uF for Vref HF filtering.
 - Changed parts for C1 and C2 (1nF COG 1%).
