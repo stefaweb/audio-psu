@@ -2,7 +2,7 @@
 
 <b>DC-DC High Voltage 50W Power Supply</b>
 
-Version 1.1.1 released on October 25, 2025.
+Version 1.1.2 released on November 21, 2025.
 
 Read the CHANGELOG.md file to see the changes.
 
