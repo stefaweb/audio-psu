@@ -4,7 +4,7 @@
 """
 Thermal comparison for MOSFETs used in the UC3845A DC-DC 24V → 450V flyback.
 
-Version : 2.9.7
+Version : 2.9.8
 Authors: stef and ChatGPT
 
 Date: 23-11-2025
@@ -23,26 +23,31 @@ import matplotlib.patheffects as path_effects
 # 1) CIRCUIT PARAMETERS
 # ==============================================================
 
-Vin      = 24.0    # Volts
-Vout     = 450.0   # Volts
+Vin      = 24      # Volts
+Vout     = 450     # Volts
 Iout     = 0.120   # Ampere
+
+# Flyback frequency
+fsw      = 50      # kHz
 
 Np       = 10      # Number of Primary Turns
 Ns       = 190     # Number of Secondary Turns
 Lp       = 68      # µH
 Llk      = 0.454   # µH
-
-# Flyback frequency
-fsw      = 50      # kHz
-
 Vgs      = 10.0    # Volts
-Tamb     = 25.0    # °C
 Ig_max   = 1       # Ampere - UC3845A Iout max
 dvdt_max = 10      # V/ns
 
+# Ambient temperature (Ta)
+Tamb     = 25      # °C
+
 # Heatsink parameters
-Rth_CS   = 0.50
-Rth_SA   = 14.0
+Rth_model = "Fischer SK-437-50-STS"
+Rth_CS    = 0.50
+Rth_SA    = 14.0
+
+# Temperature unit: "C" for Celsius, "K" for Kelvin
+TEMP_UNIT = "C"   # changer en "K" pour travailler en Kelvin
 
 # ==============================================================
 # 2) AUTOMATIC PRIMARY CALCULATION
@@ -56,6 +61,13 @@ dvdt_max = dvdt_max * 1e9   # V/ns → V/s
 
 Vref = Vout * (Np / Ns)
 V_L_on = Vin - 0.8
+
+# Temperature converter
+def convert_temp(T):
+    """Return temperature in the selected unit."""
+    if TEMP_UNIT.upper() == "K":
+        return T + 273.15
+    return T
 
 # Duty cycle (flyback discontinu theoretical equation)
 D_theoretical = Vref / (Vin + Vref)
@@ -273,7 +285,7 @@ for name, raw in mosfets.items():
         "P_sw_W": P_sw,
         "P_gate_W": P_gate,
         "P_total_W": P_total,
-        "Tj_C": Tj
+        "Tj_C": convert_temp(Tj)
     })
 
 df = pd.DataFrame(rows)
@@ -304,10 +316,22 @@ ax1.bar(x, gate, bottom=cond+coss+sw, label="Gate", zorder=3)
 ax1.grid(True, axis="y", linestyle="--", alpha=0.5, zorder=0)
 ax1.legend(loc="upper right")
 
-ax1.set_title(
-    "MOSFET losses and junction temperature (Tj)\n"
-    "(UC3845A Flyback 24V→450V @ 120mA - Heatsink = Fischer SK-437-50-STS)",
-    fontweight="bold"
+# Expand top margin enough for title
+plt.subplots_adjust(top=0.88)
+
+fig.suptitle(
+    "MOSFET losses and junction temperature (Tj)",
+    fontweight="bold",
+    fontsize=14,
+    y=0.99
+)
+
+fig.text(
+    0.5, 0.954,
+    f"UC3845A Flyback {Vin}V→{Vout}V @ {Iout}A – Heatsink = {Rth_model} – Ta = {convert_temp(Tamb):.1f}°{TEMP_UNIT}",
+    ha="center",
+    va="center",
+    fontsize=11,
 )
 
 ax1.set_xticks(x)
@@ -315,18 +339,21 @@ ax1.set_xticklabels(labels, rotation=25, ha="right")
 
 ax2 = ax1.twinx()
 ax2.plot(x, Tj, "-o", color="red", linewidth=2)
-ax2.set_ylabel("Junction Temp (°C)", color="red")
+ax2.set_ylabel(f"Junction Temp (°{TEMP_UNIT})", color="red")
 ax2.set_ylim(min(Tj)-5, max(Tj)+10)
 
 for i, tj in enumerate(Tj):
-    ax2.text(i, tj + 1, f"{tj:.1f}°C",
+    ax2.text(i, tj + 1, f"{tj:.1f}°{TEMP_UNIT}",
              ha="center", color="red", fontweight="bold",
              path_effects=[path_effects.Stroke(linewidth=1, foreground="white"),
                            path_effects.Normal()])
 
 # ==============================================================
-# ADD R1 RECOMMENDATION TO THE GRAPH
+# 7) ADD R1 RECOMMENDATION TO THE GRAPH
 # ==============================================================
+
+# Compute maximum bar height for normalization
+max_bar = max((cond + coss + sw + gate))
 
 for i, name in enumerate(labels):
     raw = mosfets[name]
@@ -336,21 +363,25 @@ for i, name in enumerate(labels):
     r1_text = f"R1: {R1_min:.0f}–{R1_max:.0f}Ω"
 
     ax1.text(
-        i,                        # X position
-        -(max(cond) * 0.10),      # Y under the bar stack
+        i,
+        -0.02 * max_bar,         # small offset: −2% of total bar height
         r1_text,
         ha="center",
         va="top",
         fontsize=9,
         fontweight="bold",
-        rotation=0,
         color="black",
         path_effects=[path_effects.Stroke(linewidth=1, foreground="white"),
                       path_effects.Normal()]
     )
 
-# Expand bottom margin to make space for R1 labels
-ax1.set_ylim(bottom=-(max(cond) * 0.20))
+# Expand bottom margin enough for R1 labels
+ax1.set_ylim(bottom=-0.08 * max_bar)   # −8% instead of -20%
+
+
+# ==============================================================
+# 8) PLOT AND SAVE GRAPH
+# ==============================================================
 
 plt.tight_layout()
 plt.savefig("Mosfet_thermal_plot.png", dpi=300)
