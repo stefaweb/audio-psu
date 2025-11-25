@@ -16,7 +16,7 @@ Under development.
 - Added a snubber circuit to reduce VdsPeak (C15/R11/D2).
 - Added a damping network for Q1 (R12/C16) to reduce HF.
 - R1 has moved to footprint 1206.
-- Added R12 (0.1uF) for Vref HF filtering.
+- Added R12 (0.1uF XR7) for Vref HF filtering.
 - Changed parts number for C1 and C2 (1nF COG 1%).
 - Changed C6 (0.15uF XR7) value.
 - Changed R3 (17K4) value (Frequency now 50KHz instead of 51KHz).
