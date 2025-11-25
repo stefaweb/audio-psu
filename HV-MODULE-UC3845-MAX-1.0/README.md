@@ -18,18 +18,18 @@ Under development.
 - R1 has moved to footprint 1206.
 - Added R12 (0.1uF XR7) for Vref HF filtering.
 - Changed parts number for C1 and C2 (1nF COG 1%).
-- Changed C6 (0.15uF XR7) value.
+- Changed C6 value (0.15uF XR7).
 - Changed R3 (17K4) value (Frequency now 50KHz instead of 51KHz).
 - Optimized value or parts numbers for R21, R22, R23 and R28.
 - Removed TH fuse and replaced it with a SMD 5A fast fuse on the back.
-- Removed negative circuit from schematic and PCB.
-- Removed unused test footprint.
 - New output CLC filter with one electrolytic capacitor footprint before the coil and two footprints after inductor.
 - Footprint for output filter electrolytic capacitors now accept D12.5.
 - Possibility to use an TH or SMD inductor for L1.
 - Q1 Mosfet can be installed at botton or below the PCB (to fit on a larger heatsink).
 - The GND and B+ signals are duplicated on the output connector.
 - D1 footprint now accept DO-201AD or TO-220 diode.
+- Removed negative circuit from schematic and PCB.
+- Removed unused test footprint.
 - New mother board for power it up to 45W.
 - New UC3845A LTSpice Simulation 1.1
   
