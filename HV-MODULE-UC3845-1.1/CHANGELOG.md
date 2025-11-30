@@ -1,15 +1,11 @@
 # Changelog HV-MODULE-UC3845
 
-Version [1.1.2] (21-11-2025)
+Version [1.1.3] (30-11-2025)
 
-- Q1 now IRFB4615PBZ.
-- R28 now 100K.
-- Updated fabrication files and schematic.
-
-Version [1.1.1] (25-10-2025)
-
-- Q1 now IRF1010EZ instead of IRF3205Z.
+- Q1 now IPP200N15N3G.
+- R21, R22, R23 now 330K.
 - R5 now 0R040 instead of 0R025.
+- R28 now 100K.
 - Updated fabrication files and schematic.
 
 Version [1.1] (7-09-2025)
