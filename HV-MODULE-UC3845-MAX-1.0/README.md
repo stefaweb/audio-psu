@@ -52,7 +52,7 @@ PCB size: 100x50mm
 
 ![Image](https://github.com/user-attachments/assets/45dfc3aa-23f2-48a1-a0b5-18d69de82857)
 
-![Image](https://github.com/user-attachments/assets/6709c11a-b0b0-4fcf-a2e3-ea0395e083dd)
+![Image](https://github.com/user-attachments/assets/d4f10a4b-14d3-41ef-a96a-83fd3a112ebb)
 
 IRFB4615 drain output - Vin = 24V 1.4A - Vout = 450V / 64mA - Vout ripple = 73mV
 
