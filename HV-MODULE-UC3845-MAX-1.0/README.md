@@ -5,7 +5,7 @@
 Under development.
 <br>
 <br>
-<b>HV-MODULE-UC3845-MAX version compared to first HV-PSU-UC3845 1.1 board</b>
+<b>HV-MODULE-UC3845-MAX version compared to the HV-PSU-UC3845 1.1 board</b>
 <br>
 - Support power up to 65W.
 - New DC voltage ouput range: +120V to +485V
