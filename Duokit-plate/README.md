@@ -2,16 +2,17 @@
 
 
 Instrument support plate for DuoVac (DuoKit 3).
+
 <img width="2340" height="1750" alt="Image" src="https://github.com/user-attachments/assets/d3d18d92-fb75-46ca-b4d1-7187a9396ebd" />
 
 Adapter board and power supply for 1602 OLED display.
+
 ![Image](https://github.com/user-attachments/assets/0479d195-6c9a-466c-81ef-d4e35b56dac7)
 
 ![Image](https://github.com/user-attachments/assets/b145506b-bbfb-4b30-8b38-fbe5844a34d2)
 
-![Image](https://github.com/user-attachments/assets/c424c694-5d41-4b62-bf08-ec4f6de10451)
-
 ![Image](https://github.com/user-attachments/assets/9ef396eb-99b1-4da3-8a88-2ec975a165af)
 
 Adapter plate for 1602A LCD display (to use with the plate).
+
 ![Image](https://github.com/user-attachments/assets/eb083be8-3e1d-42ab-8628-340f44f4fc82)
