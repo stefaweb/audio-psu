@@ -15,6 +15,8 @@ Overtemperature protection<br>
 Softstart<br>
 Inverting polarity diode protection on power input<br>
 
+Size: 60 x 50 mm
+
 ![Image](https://github.com/user-attachments/assets/c1025c5e-45b2-46fc-9642-7c7e01602491)
 
 ![Image](https://github.com/user-attachments/assets/517d83ed-feb2-42fe-b109-563f6e4abeed)
