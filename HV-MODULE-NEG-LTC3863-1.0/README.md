@@ -5,7 +5,8 @@
 Under development.
 
 <b>Specifications:</b><br>
-Input: 24V<br>
+<br>
+Input: 12V-24V<br>
 Negative Output: -8V to -90V<br>
 Noise and ripple: below 1mV RMS<br>
 Two independant output<br>
