@@ -7,6 +7,7 @@ Under development.
 <b>Specifications:</b><br>
 Input: 24V<br>
 Negative Output: -8V to -90V<br>
+Noise and ripple: below 1mV RMS<br>
 Two independant output<br>
 Input for cathode<br>
 Output for external probe<br>
