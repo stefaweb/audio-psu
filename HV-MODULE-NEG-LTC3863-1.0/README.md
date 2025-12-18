@@ -6,7 +6,7 @@ Under development.
 
 <b>Specifications:</b><br>
 Input: 24V<br>
-Negative Output: -10V to -95V<br>
+Negative Output: -8V to -90V<br>
 Two independant output<br>
 Input for cathode<br>
 Output for external probe<br>
