@@ -2,8 +2,6 @@
 
 <b>High Voltage DC-DC Power Supply for Negative Grid Voltage</b>
 
-Under development.
-
 <b>Specifications:</b><br>
 <br>
 Input: 12V-24V<br>
