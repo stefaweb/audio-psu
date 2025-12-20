@@ -1,5 +1,10 @@
 # audio-psu
 
+# HV-MODULE-LTC3868-1.0
+
+![Image](https://github.com/user-attachments/assets/2506d662-e38c-49a5-a2e4-c4cb53a3dc95)
+
+
 # HV-MODULE-UC3845-1.1
 
 DC-DC High Voltage 50W Power Supply for audio tubes.
