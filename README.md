@@ -1,9 +1,10 @@
 # audio-psu
 
-# HV-MODULE-LTC3868-1.0
+# HV-MODULE-NEG-LTC3863-1.0
+
+High Voltage DC-DC Power Supply for Negative Grid Voltage
 
 ![Image](https://github.com/user-attachments/assets/2506d662-e38c-49a5-a2e4-c4cb53a3dc95)
-
 
 # HV-MODULE-UC3845-1.1
 
