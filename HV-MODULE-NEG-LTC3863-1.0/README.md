@@ -38,8 +38,6 @@ Inverting polarity diode protection on power input<br>
 
 Size: 60 x 50 mm
 
-![Image](https://github.com/user-attachments/assets/2506d662-e38c-49a5-a2e4-c4cb53a3dc95)
-
 ![Image](https://github.com/user-attachments/assets/cb40957b-0c38-4d49-b382-687a6d92f532)
 
 ![Image](https://github.com/user-attachments/assets/964943c0-5d81-413e-b857-740dd6ea62e3)
