@@ -6,18 +6,16 @@ Version 1.0 released on Décember 20, 2025.
 
 DC-DC Negative Voltage Grid power supply for tube biasing using LTC3863.
 
-I've developed a small DC-DC Negative Voltage Grid power supply for tube biasing using LTC3863.
-
 It's designed to be mounted against the front panel of an amplifier cabinet (above or behind it, for example) with just two holes for accessing the potentiometers. There's also an LED that indicates the module is working.
 
 It measures only 60x50mm and is mounted with four M3x10 standoffs.
 
 The board's connector has the following signals:
 
-VP1 = to power a VU meter
-K1 = tube cathode connection
-NGV1 = negative grid voltage output for biasing
-0 = GND
+VP1 = to power a VU meter<br>
+K1 = tube cathode connection<br>
+NGV1 = negative grid voltage output for biasing<br>
+0 = GND<br>
 
 And the same on a second channel, "2" (ground is common).
 
