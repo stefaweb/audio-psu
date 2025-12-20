@@ -2,7 +2,7 @@
 
 <b>High Voltage DC-DC Power Supply for Negative Grid Voltage</b>
 
-Version 1.0 released on Décember 20, 2025.
+Version 1.0.1 released on Décember 20, 2025.
 
 DC-DC Negative Voltage Grid power supply for tube biasing using LTC3863.
 
