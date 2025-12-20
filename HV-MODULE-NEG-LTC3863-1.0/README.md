@@ -8,7 +8,7 @@ DC-DC Negative Voltage Grid power supply for tube biasing using LTC3863.
 
 It's designed to be mounted against the front panel of an amplifier cabinet (above or behind it, for example) with just two holes for accessing the potentiometers. There's also an LED that indicates the module is working.
 
-It measures only 60x50mm and is mounted with four M3x10 standoffs.
+It measures only 60 x 50 mm and is mounted with four M3x10 standoffs. The distance between the two trimmers is 4 cm.
 
 The board's connector has the following signals:
 
@@ -22,8 +22,6 @@ And the same on a second channel, "2" (ground is common).
 The output voltage is adjustable via trimmers RV1 and RV2.
 
 The board can be powered by 12 to 24V DC (24V is preferred). It consumes only a few tens of milliamps.
-
-The distance between the two trimmers is 4 cm.
 
 <b>Specifications:</b><br>
 <br>
