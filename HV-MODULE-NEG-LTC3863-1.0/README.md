@@ -45,3 +45,5 @@ Size: 60 x 50 mm
 ![Image](https://github.com/user-attachments/assets/a0f6693c-22ec-40ae-88bd-7b18a5644499)
 
 ![Image](https://github.com/user-attachments/assets/1d57e6e0-595d-4db1-bc1d-b4ed669af285)
+
+![Image](https://github.com/user-attachments/assets/17d133b1-b912-4f96-9af0-c97c58b2e322)
